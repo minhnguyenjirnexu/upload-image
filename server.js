@@ -46,6 +46,13 @@ app.post('/uploadmultiple', upload.array('myFiles', 12), (req, res, next) => {
     
 })
 
+app.post('/otp/request', function(req, res) {
+  return res.json({
+    success: true,
+    otp: '0000'
+  })
+});
+
 app.get('/otp/check/:otp', function(req, res) {
   const params = req.params;
   const {otp} = params;
