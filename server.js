@@ -53,6 +53,13 @@ app.post('/otp/request', function(req, res) {
   })
 });
 
+app.post('/otp/resend', function(req, res) {
+  return res.json({
+    success: true,
+    otp: '0000'
+  })
+});
+
 app.get('/otp/check/:otp', function(req, res) {
   const params = req.params;
   const {otp} = params;
