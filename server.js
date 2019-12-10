@@ -46,6 +46,28 @@ app.post('/uploadmultiple', upload.array('myFiles', 12), (req, res, next) => {
     
 })
 
+app.get('/otp/check/:otp', function(req, res) {
+  const params = req.params;
+  const {otp} = params;
+  if(otp === '') {
+    const error = new Error('Please input otp');
+    error.httpStatusCode = 400;
+    return next(error);
+  }
+
+  if(otp === '0000') {
+    return res.json({
+      success: true,
+      isValidOtp: true
+    })
+  }
+
+  return res.json({
+    success: true,
+    isValidOtp: false
+  })
+})
+
 //ROUTES WILL GO HERE
 app.get('/', function(req, res) {
     res.json({ message: 'WELCOME' });   
