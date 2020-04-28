@@ -1,0 +1,380 @@
+[
+    {
+        "jnx_key": "89",
+        "jnx_value": "An Giang",
+        "tenant_key": "7400",
+        "tenant_value": "An Giang"
+    },
+    {
+        "jnx_key": "77",
+        "jnx_value": "Bà Rịa - Vũng Tàu",
+        "tenant_key": "7250",
+        "tenant_value": "Bà Rịa - Vũng Tàu"
+    },
+    {
+        "jnx_key": "24",
+        "jnx_value": "Bắc Giang",
+        "tenant_key": "1800",
+        "tenant_value": "Bắc Giang"
+    },
+    {
+        "jnx_key": "06",
+        "jnx_value": "Bắc Kạn",
+        "tenant_key": "1250",
+        "tenant_value": "Bắc Kạn"
+    },
+    {
+        "jnx_key": "95",
+        "jnx_value": "Bạc Liêu",
+        "tenant_key": "7850",
+        "tenant_value": "Bạc Liêu"
+    },
+    {
+        "jnx_key": "27",
+        "jnx_value": "Bắc Ninh",
+        "tenant_key": "1850",
+        "tenant_value": "Bắc Ninh"
+    },
+    {
+        "jnx_key": "83",
+        "jnx_value": "Bến Tre",
+        "tenant_key": "7500",
+        "tenant_value": "Bến Tre"
+    },
+    {
+        "jnx_key": "74",
+        "jnx_value": "Bình Dương",
+        "tenant_key": "7050",
+        "tenant_value": "Bình Dương"
+    },
+    {
+        "jnx_key": "52",
+        "jnx_value": "Bình Định",
+        "tenant_key": "4450",
+        "tenant_value": "Bình Định"
+    },
+    {
+        "jnx_key": "70",
+        "jnx_value": "Bình Phước",
+        "tenant_key": "7100",
+        "tenant_value": "Bình Phước"
+    },
+    {
+        "jnx_key": "60",
+        "jnx_value": "Bình Thuận",
+        "tenant_key": "4600",
+        "tenant_value": "Bình Thuận"
+    },
+    {
+        "jnx_key": "96",
+        "jnx_value": "Cà Mau",
+        "tenant_key": "7900",
+        "tenant_value": "Cà Mau"
+    },
+    {
+        "jnx_key": "92",
+        "jnx_value": "Cần Thơ",
+        "tenant_key": "7650",
+        "tenant_value": "Cần Thơ"
+    },
+    {
+        "jnx_key": "04",
+        "jnx_value": "Cao Bằng",
+        "tenant_key": "1150",
+        "tenant_value": "Cao Bằng"
+    },
+    {
+        "jnx_key": "48",
+        "jnx_value": "Đà Nẵng",
+        "tenant_key": "4300",
+        "tenant_value": "Đà Nẵng"
+    },
+    {
+        "jnx_key": "66",
+        "jnx_value": "Đắk Lắk",
+        "tenant_key": "4800",
+        "tenant_value": "Đắk Lắk"
+    },
+    {
+        "jnx_key": "67",
+        "jnx_value": "Đắk Nông",
+        "tenant_key": "4850",
+        "tenant_value": "Đắk Nông"
+    },
+    {
+        "jnx_key": "11",
+        "jnx_value": "Điện Biên",
+        "tenant_key": "1550",
+        "tenant_value": "Điện Biên"
+    },
+    {
+        "jnx_key": "75",
+        "jnx_value": "Đồng Nai",
+        "tenant_key": "7200",
+        "tenant_value": "Đồng Nai"
+    },
+    {
+        "jnx_key": "87",
+        "jnx_value": "Đồng Tháp",
+        "tenant_key": "7350",
+        "tenant_value": "Đồng Tháp"
+    },
+    {
+        "jnx_key": "64",
+        "jnx_value": "Gia Lai",
+        "tenant_key": "4700",
+        "tenant_value": "Gia Lai"
+    },
+    {
+        "jnx_key": "02",
+        "jnx_value": "Hà Giang",
+        "tenant_key": "1100",
+        "tenant_value": "Hà Giang"
+    },
+    {
+        "jnx_key": "35",
+        "jnx_value": "Hà Nam",
+        "tenant_key": "2100",
+        "tenant_value": "Hà Nam"
+    },
+    {
+        "jnx_key": "01",
+        "jnx_value": "Hà Nội",
+        "tenant_key": "1000",
+        "tenant_value": "Hà Nội"
+    },
+    {
+        "jnx_key": "42",
+        "jnx_value": "Hà Tĩnh",
+        "tenant_key": "4100",
+        "tenant_value": "Hà Tĩnh"
+    },
+    {
+        "jnx_key": "30",
+        "jnx_value": "Hải Dương",
+        "tenant_key": "1700",
+        "tenant_value": "Hải Dương"
+    },
+    {
+        "jnx_key": "31",
+        "jnx_value": "Hải Phòng",
+        "tenant_key": "1650",
+        "tenant_value": "Hải Phòng"
+    },
+    {
+        "jnx_key": "93",
+        "jnx_value": "Hậu Giang",
+        "tenant_key": "7700",
+        "tenant_value": "Hậu Giang"
+    },
+    {
+        "jnx_key": "79",
+        "jnx_value": "Hồ Chí Minh",
+        "tenant_key": "7000",
+        "tenant_value": "Hồ Chí Minh"
+    },
+    {
+        "jnx_key": "17",
+        "jnx_value": "Hoà Bình",
+        "tenant_key": "2050",
+        "tenant_value": "Hòa Bình"
+    },
+    {
+        "jnx_key": "33",
+        "jnx_value": "Hưng Yên",
+        "tenant_key": "1750",
+        "tenant_value": "Hưng Yên"
+    },
+    {
+        "jnx_key": "56",
+        "jnx_value": "Khánh Hòa",
+        "tenant_key": "4550",
+        "tenant_value": "Khánh Hòa"
+    },
+    {
+        "jnx_key": "91",
+        "jnx_value": "Kiên Giang",
+        "tenant_key": "7800",
+        "tenant_value": "Kiên Giang"
+    },
+    {
+        "jnx_key": "62",
+        "jnx_value": "Kon Tum",
+        "tenant_key": "4750",
+        "tenant_value": "Kon Tum"
+    },
+    {
+        "jnx_key": "12",
+        "jnx_value": "Lai Châu",
+        "tenant_key": "1450",
+        "tenant_value": "Lai Châu"
+    },
+    {
+        "jnx_key": "68",
+        "jnx_value": "Lâm Đồng",
+        "tenant_key": "4900",
+        "tenant_value": "Lâm Đồng"
+    },
+    {
+        "jnx_key": "20",
+        "jnx_value": "Lạng Sơn",
+        "tenant_key": "1200",
+        "tenant_value": "Lạng Sơn"
+    },
+    {
+        "jnx_key": "10",
+        "jnx_value": "Lào Cai",
+        "tenant_key": "1400",
+        "tenant_value": "Lào Cai"
+    },
+    {
+        "jnx_key": "80",
+        "jnx_value": "Long An",
+        "tenant_key": "7300",
+        "tenant_value": "Long An"
+    },
+    {
+        "jnx_key": "36",
+        "jnx_value": "Nam Định",
+        "tenant_key": "2150",
+        "tenant_value": "Nam Định"
+    },
+    {
+        "jnx_key": "40",
+        "jnx_value": "Nghệ An",
+        "tenant_key": "4050",
+        "tenant_value": "Nghệ An"
+    },
+    {
+        "jnx_key": "37",
+        "jnx_value": "Ninh Bình",
+        "tenant_key": "2200",
+        "tenant_value": "Ninh Bình"
+    },
+    {
+        "jnx_key": "58",
+        "jnx_value": "Ninh Thuận",
+        "tenant_key": "4650",
+        "tenant_value": "Ninh Thuận"
+    },
+    {
+        "jnx_key": "25",
+        "jnx_value": "Phú Thọ",
+        "tenant_key": "1900",
+        "tenant_value": "Phú Thọ"
+    },
+    {
+        "jnx_key": "54",
+        "jnx_value": "Phú Yên",
+        "tenant_key": "4500",
+        "tenant_value": "Phú Yên"
+    },
+    {
+        "jnx_key": "44",
+        "jnx_value": "Quảng Bình",
+        "tenant_key": "4150",
+        "tenant_value": "Quảng Bình"
+    },
+    {
+        "jnx_key": "49",
+        "jnx_value": "Quảng Nam",
+        "tenant_key": "4350",
+        "tenant_value": "Quảng Nam"
+    },
+    {
+        "jnx_key": "51",
+        "jnx_value": "Quảng Ngãi",
+        "tenant_key": "4400",
+        "tenant_value": "Quảng Ngãi"
+    },
+    {
+        "jnx_key": "22",
+        "jnx_value": "Quảng Ninh",
+        "tenant_key": "1600",
+        "tenant_value": "Quảng Ninh"
+    },
+    {
+        "jnx_key": "45",
+        "jnx_value": "Quảng Trị",
+        "tenant_key": "4200",
+        "tenant_value": "Quảng Trị"
+    },
+    {
+        "jnx_key": "94",
+        "jnx_value": "Sóc Trăng",
+        "tenant_key": "7750",
+        "tenant_value": "Sóc Trăng"
+    },
+    {
+        "jnx_key": "14",
+        "jnx_value": "Sơn La",
+        "tenant_key": "1500",
+        "tenant_value": "Sơn La"
+    },
+    {
+        "jnx_key": "72",
+        "jnx_value": "Tây Ninh",
+        "tenant_key": "7150",
+        "tenant_value": "Tây Ninh"
+    },
+    {
+        "jnx_key": "34",
+        "jnx_value": "Thái Bình",
+        "tenant_key": "2250",
+        "tenant_value": "Thái Bình"
+    },
+    {
+        "jnx_key": "19",
+        "jnx_value": "Thái Nguyên",
+        "tenant_key": "1300",
+        "tenant_value": "Thái Nguyên"
+    },
+    {
+        "jnx_key": "38",
+        "jnx_value": "Thanh Hóa",
+        "tenant_key": "4000",
+        "tenant_value": "Thanh Hóa"
+    },
+    {
+        "jnx_key": "46",
+        "jnx_value": "Thừa Thiên Huế",
+        "tenant_key": "4250",
+        "tenant_value": "Thừa Thiên Huế"
+    },
+    {
+        "jnx_key": "82",
+        "jnx_value": "Tiền Giang",
+        "tenant_key": "7450",
+        "tenant_value": "Tiền Giang"
+    },
+    {
+        "jnx_key": "84",
+        "jnx_value": "Trà Vinh",
+        "tenant_key": "7600",
+        "tenant_value": "Trà Vinh"
+    },
+    {
+        "jnx_key": "08",
+        "jnx_value": "Tuyên Quang",
+        "tenant_key": "1050",
+        "tenant_value": "Tuyên Quang"
+    },
+    {
+        "jnx_key": "86",
+        "jnx_value": "Vĩnh Long",
+        "tenant_key": "7550",
+        "tenant_value": "Vĩnh Long"
+    },
+    {
+        "jnx_key": "26",
+        "jnx_value": "Vĩnh Phúc",
+        "tenant_key": "1950",
+        "tenant_value": "Vĩnh Phúc"
+    },
+    {
+        "jnx_key": "15",
+        "jnx_value": "Yên Bái",
+        "tenant_key": "1350",
+        "tenant_value": "Yên Bái"
+    }
+]

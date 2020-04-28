@@ -1,0 +1,5014 @@
+{
+    "79": [
+        {
+            "jnx_key": "760",
+            "jnx_value": "1",
+            "province_id": "79",
+            "tenant_key": "0444",
+            "tenant_value": "1"
+        },
+        {
+            "jnx_key": "771",
+            "jnx_value": "10",
+            "province_id": "79",
+            "tenant_key": "0453",
+            "tenant_value": "10"
+        },
+        {
+            "jnx_key": "772",
+            "jnx_value": "11",
+            "province_id": "79",
+            "tenant_key": "0454",
+            "tenant_value": "11"
+        },
+        {
+            "jnx_key": "761",
+            "jnx_value": "12",
+            "province_id": "79",
+            "tenant_key": "0455",
+            "tenant_value": "12"
+        },
+        {
+            "jnx_key": "769",
+            "jnx_value": "2",
+            "province_id": "79",
+            "tenant_key": "0445",
+            "tenant_value": "2"
+        },
+        {
+            "jnx_key": "770",
+            "jnx_value": "3",
+            "province_id": "79",
+            "tenant_key": "0446",
+            "tenant_value": "3"
+        },
+        {
+            "jnx_key": "773",
+            "jnx_value": "4",
+            "province_id": "79",
+            "tenant_key": "0447",
+            "tenant_value": "4"
+        },
+        {
+            "jnx_key": "774",
+            "jnx_value": "5",
+            "province_id": "79",
+            "tenant_key": "0448",
+            "tenant_value": "5"
+        },
+        {
+            "jnx_key": "775",
+            "jnx_value": "6",
+            "province_id": "79",
+            "tenant_key": "0449",
+            "tenant_value": "6"
+        },
+        {
+            "jnx_key": "778",
+            "jnx_value": "7",
+            "province_id": "79",
+            "tenant_key": "0450",
+            "tenant_value": "7"
+        },
+        {
+            "jnx_key": "776",
+            "jnx_value": "8",
+            "province_id": "79",
+            "tenant_key": "0451",
+            "tenant_value": "8"
+        },
+        {
+            "jnx_key": "763",
+            "jnx_value": "9",
+            "province_id": "79",
+            "tenant_key": "0452",
+            "tenant_value": "9"
+        },
+        {
+            "jnx_key": "785",
+            "jnx_value": "Bình Chánh",
+            "province_id": "79",
+            "tenant_key": "0048",
+            "tenant_value": "Bình Chánh"
+        },
+        {
+            "jnx_key": "777",
+            "jnx_value": "Bình Tân",
+            "province_id": "79",
+            "tenant_key": "0057",
+            "tenant_value": "Bình Tân"
+        },
+        {
+            "jnx_key": "765",
+            "jnx_value": "Bình Thạnh",
+            "province_id": "79",
+            "tenant_key": "0059",
+            "tenant_value": "Bình Thạnh"
+        },
+        {
+            "jnx_key": "787",
+            "jnx_value": "Cần Giờ",
+            "province_id": "79",
+            "tenant_key": "787",
+            "tenant_value": "Cần Giờ"
+        },
+        {
+            "jnx_key": "783",
+            "jnx_value": "Củ Chi",
+            "province_id": "79",
+            "tenant_key": "0128",
+            "tenant_value": "Củ Chi"
+        },
+        {
+            "jnx_key": "764",
+            "jnx_value": "Gò Vấp",
+            "province_id": "79",
+            "tenant_key": "764",
+            "tenant_value": "Gò Vấp"
+        },
+        {
+            "jnx_key": "784",
+            "jnx_value": "Hóc Môn",
+            "province_id": "79",
+            "tenant_key": "0252",
+            "tenant_value": "Hóc Môn"
+        },
+        {
+            "jnx_key": "786",
+            "jnx_value": "Nhà Bè",
+            "province_id": "79",
+            "tenant_key": "0393",
+            "tenant_value": "Nhà Bè"
+        },
+        {
+            "jnx_key": "768",
+            "jnx_value": "Phú Nhuận",
+            "province_id": "79",
+            "tenant_key": "0420",
+            "tenant_value": "Phú Nhuận"
+        },
+        {
+            "jnx_key": "766",
+            "jnx_value": "Tân Bình",
+            "province_id": "79",
+            "tenant_key": "0511",
+            "tenant_value": "Tân Bình"
+        },
+        {
+            "jnx_key": "767",
+            "jnx_value": "Tân Phú",
+            "province_id": "79",
+            "tenant_key": "0520",
+            "tenant_value": "Tân Phú"
+        },
+        {
+            "jnx_key": "762",
+            "jnx_value": "Thủ Đức",
+            "province_id": "79",
+            "tenant_key": "0570",
+            "tenant_value": "Thủ Đức"
+        }
+    ],
+    "46": [
+        {
+            "jnx_key": "481",
+            "jnx_value": "A Lưới",
+            "province_id": "46",
+            "tenant_key": "0001",
+            "tenant_value": "A Lưới"
+        },
+        {
+            "jnx_key": "474",
+            "jnx_value": "Huế",
+            "province_id": "46",
+            "tenant_key": "0260",
+            "tenant_value": "Huế"
+        },
+        {
+            "jnx_key": "479",
+            "jnx_value": "Hương Thủy",
+            "province_id": "46",
+            "tenant_key": "0266",
+            "tenant_value": "Hương Thủy"
+        },
+        {
+            "jnx_key": "480",
+            "jnx_value": "Hương Trà",
+            "province_id": "46",
+            "tenant_key": "0267",
+            "tenant_value": "Hương Trà"
+        },
+        {
+            "jnx_key": "483",
+            "jnx_value": "Nam Đông",
+            "province_id": "46",
+            "tenant_key": "0371",
+            "tenant_value": "Nam Đông"
+        },
+        {
+            "jnx_key": "476",
+            "jnx_value": "Phong Điền",
+            "province_id": "46",
+            "tenant_key": "0411",
+            "tenant_value": "Phong Điền"
+        },
+        {
+            "jnx_key": "482",
+            "jnx_value": "Phú Lộc",
+            "province_id": "46",
+            "tenant_key": "0418",
+            "tenant_value": "Phú Lộc"
+        },
+        {
+            "jnx_key": "478",
+            "jnx_value": "Phú Vang",
+            "province_id": "46",
+            "tenant_key": "0428",
+            "tenant_value": "Phú Vang"
+        },
+        {
+            "jnx_key": "477",
+            "jnx_value": "Quảng Điền",
+            "province_id": "46",
+            "tenant_key": "0460",
+            "tenant_value": "Quảng Điền"
+        }
+    ],
+    "91": [
+        {
+            "jnx_key": "908",
+            "jnx_value": "An Biên",
+            "province_id": "91",
+            "tenant_key": "0002",
+            "tenant_value": "An Biên"
+        },
+        {
+            "jnx_key": "909",
+            "jnx_value": "An Minh",
+            "province_id": "91",
+            "tenant_key": "0007",
+            "tenant_value": "An Minh"
+        },
+        {
+            "jnx_key": "905",
+            "jnx_value": "Châu Thành",
+            "province_id": "91",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "914",
+            "jnx_value": "Giang Thành",
+            "province_id": "91",
+            "tenant_key": "0693",
+            "tenant_value": "Giang Thành"
+        },
+        {
+            "jnx_key": "906",
+            "jnx_value": "Giồng Riềng",
+            "province_id": "91",
+            "tenant_key": "0208",
+            "tenant_value": "Giồng Riềng"
+        },
+        {
+            "jnx_key": "907",
+            "jnx_value": "Gò Quao",
+            "province_id": "91",
+            "tenant_key": "0214",
+            "tenant_value": "Gò Quao"
+        },
+        {
+            "jnx_key": "900",
+            "jnx_value": "Hà Tiên",
+            "province_id": "91",
+            "tenant_key": "0219",
+            "tenant_value": "Hà Tiên"
+        },
+        {
+            "jnx_key": "903",
+            "jnx_value": "Hòn Đất",
+            "province_id": "91",
+            "tenant_key": "0253",
+            "tenant_value": "Hòn Đất"
+        },
+        {
+            "jnx_key": "912",
+            "jnx_value": "Kiên Hải",
+            "province_id": "91",
+            "tenant_key": "0277",
+            "tenant_value": "Kiên Hải"
+        },
+        {
+            "jnx_key": "902",
+            "jnx_value": "Kiên Lương",
+            "province_id": "91",
+            "tenant_key": "0278",
+            "tenant_value": "Kiên Lương"
+        },
+        {
+            "jnx_key": "911",
+            "jnx_value": "Phú Quốc",
+            "province_id": "91",
+            "tenant_key": "0423",
+            "tenant_value": "Phú Quốc"
+        },
+        {
+            "jnx_key": "899",
+            "jnx_value": "Rạch Giá",
+            "province_id": "91",
+            "tenant_key": "0478",
+            "tenant_value": "Rạch Giá"
+        },
+        {
+            "jnx_key": "904",
+            "jnx_value": "Tân Hiệp",
+            "province_id": "91",
+            "tenant_key": "0514",
+            "tenant_value": "Tân Hiệp"
+        },
+        {
+            "jnx_key": "913",
+            "jnx_value": "U Minh Thượng",
+            "province_id": "91",
+            "tenant_key": "0621",
+            "tenant_value": "U Minh Thượng"
+        },
+        {
+            "jnx_key": "910",
+            "jnx_value": "Vĩnh Thuận",
+            "province_id": "91",
+            "tenant_key": "0650",
+            "tenant_value": "Vĩnh Thuận"
+        }
+    ],
+    "31": [
+        {
+            "jnx_key": "312",
+            "jnx_value": "An Dương",
+            "province_id": "31",
+            "tenant_key": "0003",
+            "tenant_value": "An Dương"
+        },
+        {
+            "jnx_key": "313",
+            "jnx_value": "An Lão",
+            "province_id": "31",
+            "tenant_key": "0005",
+            "tenant_value": "An Lão"
+        },
+        {
+            "jnx_key": "317",
+            "jnx_value": "Cát Hải",
+            "province_id": "31",
+            "tenant_key": "0082",
+            "tenant_value": "Cát Hải"
+        },
+        {
+            "jnx_key": "309",
+            "jnx_value": "Dương Kinh",
+            "province_id": "31",
+            "tenant_key": "1309",
+            "tenant_value": "Dương Kinh"
+        },
+        {
+            "jnx_key": "308",
+            "jnx_value": "Đồ Sơn",
+            "province_id": "31",
+            "tenant_key": "0173",
+            "tenant_value": "Đồ Sơn"
+        },
+        {
+            "jnx_key": "306",
+            "jnx_value": "Hải An",
+            "province_id": "31",
+            "tenant_key": "0686",
+            "tenant_value": "Hải An"
+        },
+        {
+            "jnx_key": "303",
+            "jnx_value": "Hồng Bàng",
+            "province_id": "31",
+            "tenant_key": "0255",
+            "tenant_value": "Hồng Bàng"
+        },
+        {
+            "jnx_key": "307",
+            "jnx_value": "Kiến An",
+            "province_id": "31",
+            "tenant_key": "0279",
+            "tenant_value": "Kiến An"
+        },
+        {
+            "jnx_key": "314",
+            "jnx_value": "Kiến Thuỵ",
+            "province_id": "31",
+            "tenant_key": "0986",
+            "tenant_value": "Kiến Thụy"
+        },
+        {
+            "jnx_key": "305",
+            "jnx_value": "Lê Chân",
+            "province_id": "31",
+            "tenant_key": "0317",
+            "tenant_value": "Lê Chân"
+        },
+        {
+            "jnx_key": "304",
+            "jnx_value": "Ngô Quyền",
+            "province_id": "31",
+            "tenant_key": "0389",
+            "tenant_value": "Ngô Quyền"
+        },
+        {
+            "jnx_key": "311",
+            "jnx_value": "Thuỷ Nguyên",
+            "province_id": "31",
+            "tenant_key": "0576",
+            "tenant_value": "Thuỷ Nguyên"
+        },
+        {
+            "jnx_key": "315",
+            "jnx_value": "Tiên Lãng",
+            "province_id": "31",
+            "tenant_key": "0581",
+            "tenant_value": "Tiên Lãng"
+        },
+        {
+            "jnx_key": "316",
+            "jnx_value": "Vĩnh Bảo",
+            "province_id": "31",
+            "tenant_key": "0640",
+            "tenant_value": "Vĩnh Bảo"
+        }
+    ],
+    "64": [
+        {
+            "jnx_key": "623",
+            "jnx_value": "An Khê",
+            "province_id": "64",
+            "tenant_key": "0004",
+            "tenant_value": "An Khê"
+        },
+        {
+            "jnx_key": "624",
+            "jnx_value": "Ayun Pa",
+            "province_id": "64",
+            "tenant_key": "0011",
+            "tenant_value": "Ayun Pa"
+        },
+        {
+            "jnx_key": "627",
+            "jnx_value": "Chư Păh",
+            "province_id": "64",
+            "tenant_key": "0118",
+            "tenant_value": "Chư Păh"
+        },
+        {
+            "jnx_key": "632",
+            "jnx_value": "Chư Prông",
+            "province_id": "64",
+            "tenant_key": "0119",
+            "tenant_value": "Chư Prông"
+        },
+        {
+            "jnx_key": "639",
+            "jnx_value": "Chư Pưh",
+            "province_id": "64",
+            "tenant_key": "0696",
+            "tenant_value": "Chư Pưh"
+        },
+        {
+            "jnx_key": "633",
+            "jnx_value": "Chư Sê",
+            "province_id": "64",
+            "tenant_key": "0120",
+            "tenant_value": "Chư Sê"
+        },
+        {
+            "jnx_key": "626",
+            "jnx_value": "Đăk Đoa",
+            "province_id": "64",
+            "tenant_key": "0150",
+            "tenant_value": "Đăk Đoa"
+        },
+        {
+            "jnx_key": "634",
+            "jnx_value": "Đăk Pơ",
+            "province_id": "64",
+            "tenant_key": "0151",
+            "tenant_value": "Đăk Pơ"
+        },
+        {
+            "jnx_key": "631",
+            "jnx_value": "Đức Cơ",
+            "province_id": "64",
+            "tenant_key": "0190",
+            "tenant_value": "Đức Cơ"
+        },
+        {
+            "jnx_key": "628",
+            "jnx_value": "Ia Grai",
+            "province_id": "64",
+            "tenant_key": "0270",
+            "tenant_value": "Ia Grai"
+        },
+        {
+            "jnx_key": "635",
+            "jnx_value": "Ia Pa",
+            "province_id": "64",
+            "tenant_key": "0271",
+            "tenant_value": "Ia Pa"
+        },
+        {
+            "jnx_key": "625",
+            "jnx_value": "KBang",
+            "province_id": "64",
+            "tenant_key": "0272",
+            "tenant_value": "Kbang"
+        },
+        {
+            "jnx_key": "630",
+            "jnx_value": "Kông Chro",
+            "province_id": "64",
+            "tenant_key": "0291",
+            "tenant_value": "Kông Chro"
+        },
+        {
+            "jnx_key": "637",
+            "jnx_value": "Krông Pa",
+            "province_id": "64",
+            "tenant_key": "0297",
+            "tenant_value": "Krông Pa"
+        },
+        {
+            "jnx_key": "629",
+            "jnx_value": "Mang Yang",
+            "province_id": "64",
+            "tenant_key": "0341",
+            "tenant_value": "Mang Yang"
+        },
+        {
+            "jnx_key": "638",
+            "jnx_value": "Phú Thiện",
+            "province_id": "64",
+            "tenant_key": "0426",
+            "tenant_value": "Phú Thiện"
+        },
+        {
+            "jnx_key": "622",
+            "jnx_value": "Pleiku",
+            "province_id": "64",
+            "tenant_key": "0443",
+            "tenant_value": "Pleiku"
+        }
+    ],
+    "52": [
+        {
+            "jnx_key": "542",
+            "jnx_value": "An Lão",
+            "province_id": "52",
+            "tenant_key": "0005",
+            "tenant_value": "An Lão"
+        },
+        {
+            "jnx_key": "549",
+            "jnx_value": "An Nhơn",
+            "province_id": "52",
+            "tenant_key": "0008",
+            "tenant_value": "An Nhơn"
+        },
+        {
+            "jnx_key": "544",
+            "jnx_value": "Hoài Ân",
+            "province_id": "52",
+            "tenant_key": "0243",
+            "tenant_value": "Hoài Ân"
+        },
+        {
+            "jnx_key": "543",
+            "jnx_value": "Hoài Nhơn",
+            "province_id": "52",
+            "tenant_key": "543",
+            "tenant_value": "Hoài Nhơn"
+        },
+        {
+            "jnx_key": "548",
+            "jnx_value": "Phù Cát",
+            "province_id": "52",
+            "tenant_key": "0430",
+            "tenant_value": "Phù Cát"
+        },
+        {
+            "jnx_key": "545",
+            "jnx_value": "Phù Mỹ",
+            "province_id": "52",
+            "tenant_key": "0432",
+            "tenant_value": "Phù Mỹ"
+        },
+        {
+            "jnx_key": "540",
+            "jnx_value": "Qui Nhơn",
+            "province_id": "52",
+            "tenant_key": "0471",
+            "tenant_value": "Qui Nhơn"
+        },
+        {
+            "jnx_key": "547",
+            "jnx_value": "Tây Sơn",
+            "province_id": "52",
+            "tenant_key": "0533",
+            "tenant_value": "Tây Sơn"
+        },
+        {
+            "jnx_key": "550",
+            "jnx_value": "Tuy Phước",
+            "province_id": "52",
+            "tenant_key": "0612",
+            "tenant_value": "Tuy Phước"
+        },
+        {
+            "jnx_key": "551",
+            "jnx_value": "Vân Canh",
+            "province_id": "52",
+            "tenant_key": "0632",
+            "tenant_value": "Vân Canh"
+        },
+        {
+            "jnx_key": "546",
+            "jnx_value": "Vĩnh Thạnh",
+            "province_id": "52",
+            "tenant_key": "0648",
+            "tenant_value": "Vĩnh Thạnh"
+        }
+    ],
+    "89": [
+        {
+            "jnx_key": "886",
+            "jnx_value": "An Phú",
+            "province_id": "89",
+            "tenant_key": "0009",
+            "tenant_value": "An Phú"
+        },
+        {
+            "jnx_key": "884",
+            "jnx_value": "Châu Đốc",
+            "province_id": "89",
+            "tenant_key": "0096",
+            "tenant_value": "Châu Đốc"
+        },
+        {
+            "jnx_key": "889",
+            "jnx_value": "Châu Phú",
+            "province_id": "89",
+            "tenant_key": "0098",
+            "tenant_value": "Châu Phú"
+        },
+        {
+            "jnx_key": "892",
+            "jnx_value": "Châu Thành",
+            "province_id": "89",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "893",
+            "jnx_value": "Chợ Mới",
+            "province_id": "89",
+            "tenant_key": "0115",
+            "tenant_value": "Chợ Mới"
+        },
+        {
+            "jnx_key": "883",
+            "jnx_value": "Long Xuyên",
+            "province_id": "89",
+            "tenant_key": "0327",
+            "tenant_value": "Long Xuyên"
+        },
+        {
+            "jnx_key": "888",
+            "jnx_value": "Phú Tân",
+            "province_id": "89",
+            "tenant_key": "0424",
+            "tenant_value": "Phú Tân"
+        },
+        {
+            "jnx_key": "887",
+            "jnx_value": "Tân Châu",
+            "province_id": "89",
+            "tenant_key": "0512",
+            "tenant_value": "Tân Châu"
+        },
+        {
+            "jnx_key": "894",
+            "jnx_value": "Thoại Sơn",
+            "province_id": "89",
+            "tenant_key": "0564",
+            "tenant_value": "Thoại Sơn"
+        },
+        {
+            "jnx_key": "890",
+            "jnx_value": "Tịnh Biên",
+            "province_id": "89",
+            "tenant_key": "0587",
+            "tenant_value": "Tịnh Biên"
+        },
+        {
+            "jnx_key": "891",
+            "jnx_value": "Tri Tôn",
+            "province_id": "89",
+            "tenant_key": "0599",
+            "tenant_value": "Tri Tôn"
+        }
+    ],
+    "33": [
+        {
+            "jnx_key": "329",
+            "jnx_value": "Ân Thi",
+            "province_id": "33",
+            "tenant_key": "0012",
+            "tenant_value": "Ân Thi"
+        },
+        {
+            "jnx_key": "323",
+            "jnx_value": "Hưng Yên",
+            "province_id": "33",
+            "tenant_key": "0263",
+            "tenant_value": "Hưng Yên"
+        },
+        {
+            "jnx_key": "330",
+            "jnx_value": "Khoái Châu",
+            "province_id": "33",
+            "tenant_key": "0276",
+            "tenant_value": "Khoái Châu"
+        },
+        {
+            "jnx_key": "331",
+            "jnx_value": "Kim Động",
+            "province_id": "33",
+            "tenant_key": "0284",
+            "tenant_value": "Kim Động"
+        },
+        {
+            "jnx_key": "328",
+            "jnx_value": "Mỹ Hào",
+            "province_id": "33",
+            "tenant_key": "0362",
+            "tenant_value": "Mỹ Hào"
+        },
+        {
+            "jnx_key": "333",
+            "jnx_value": "Phù Cừ",
+            "province_id": "33",
+            "tenant_key": "0431",
+            "tenant_value": "Phù Cừ"
+        },
+        {
+            "jnx_key": "332",
+            "jnx_value": "Tiên Lữ",
+            "province_id": "33",
+            "tenant_key": "0582",
+            "tenant_value": "Tiên Lữ"
+        },
+        {
+            "jnx_key": "326",
+            "jnx_value": "Văn Giang",
+            "province_id": "33",
+            "tenant_key": "0627",
+            "tenant_value": "Văn Giang"
+        },
+        {
+            "jnx_key": "325",
+            "jnx_value": "Văn Lâm",
+            "province_id": "33",
+            "tenant_key": "0629",
+            "tenant_value": "Văn Lâm"
+        },
+        {
+            "jnx_key": "327",
+            "jnx_value": "Yên Mỹ",
+            "province_id": "33",
+            "tenant_key": "0675",
+            "tenant_value": "Yên Mỹ"
+        }
+    ],
+    "40": [
+        {
+            "jnx_key": "424",
+            "jnx_value": "Anh Sơn",
+            "province_id": "40",
+            "tenant_key": "0010",
+            "tenant_value": "Anh Sơn"
+        },
+        {
+            "jnx_key": "422",
+            "jnx_value": "Con Cuông",
+            "province_id": "40",
+            "tenant_key": "0122",
+            "tenant_value": "Con Cuông"
+        },
+        {
+            "jnx_key": "413",
+            "jnx_value": "Cửa Lò",
+            "province_id": "40",
+            "tenant_key": "0132",
+            "tenant_value": "Cửa Lò"
+        },
+        {
+            "jnx_key": "425",
+            "jnx_value": "Diễn Châu",
+            "province_id": "40",
+            "tenant_key": "0137",
+            "tenant_value": "Diễn Châu"
+        },
+        {
+            "jnx_key": "427",
+            "jnx_value": "Đô Lương",
+            "province_id": "40",
+            "tenant_key": "0172",
+            "tenant_value": "Đô Lương"
+        },
+        {
+            "jnx_key": "432",
+            "jnx_value": "Hoàng Mai",
+            "province_id": "40",
+            "tenant_key": "0247",
+            "tenant_value": "Hoàng Mai"
+        },
+        {
+            "jnx_key": "431",
+            "jnx_value": "Hưng Nguyên",
+            "province_id": "40",
+            "tenant_key": "431",
+            "tenant_value": "Hưng Nguyên"
+        },
+        {
+            "jnx_key": "417",
+            "jnx_value": "Kỳ Sơn",
+            "province_id": "40",
+            "tenant_key": "0300",
+            "tenant_value": "Kỳ Sơn"
+        },
+        {
+            "jnx_key": "430",
+            "jnx_value": "Nam Đàn",
+            "province_id": "40",
+            "tenant_key": "0369",
+            "tenant_value": "Nam Đàn"
+        },
+        {
+            "jnx_key": "429",
+            "jnx_value": "Nghi Lộc",
+            "province_id": "40",
+            "tenant_key": "0380",
+            "tenant_value": "Nghi Lộc"
+        },
+        {
+            "jnx_key": "419",
+            "jnx_value": "Nghĩa Đàn",
+            "province_id": "40",
+            "tenant_key": "0382",
+            "tenant_value": "Nghĩa Đàn"
+        },
+        {
+            "jnx_key": "415",
+            "jnx_value": "Quế Phong",
+            "province_id": "40",
+            "tenant_key": "0468",
+            "tenant_value": "Quế Phong"
+        },
+        {
+            "jnx_key": "416",
+            "jnx_value": "Quỳ Châu",
+            "province_id": "40",
+            "tenant_key": "0473",
+            "tenant_value": "Quỳ Châu"
+        },
+        {
+            "jnx_key": "420",
+            "jnx_value": "Quỳ Hợp",
+            "province_id": "40",
+            "tenant_key": "0474",
+            "tenant_value": "Quỳ Hợp"
+        },
+        {
+            "jnx_key": "421",
+            "jnx_value": "Quỳnh Lưu",
+            "province_id": "40",
+            "tenant_key": "0475",
+            "tenant_value": "Quỳnh Lưu"
+        },
+        {
+            "jnx_key": "423",
+            "jnx_value": "Tân Kỳ",
+            "province_id": "40",
+            "tenant_key": "0518",
+            "tenant_value": "Tân Kỳ"
+        },
+        {
+            "jnx_key": "414",
+            "jnx_value": "Thái Hoà",
+            "province_id": "40",
+            "tenant_key": "0540",
+            "tenant_value": "Thái Hoà"
+        },
+        {
+            "jnx_key": "428",
+            "jnx_value": "Thanh Chương",
+            "province_id": "40",
+            "tenant_key": "0546",
+            "tenant_value": "Thanh Chương"
+        },
+        {
+            "jnx_key": "418",
+            "jnx_value": "Tương Dương",
+            "province_id": "40",
+            "tenant_key": "0619",
+            "tenant_value": "Tương Dương"
+        },
+        {
+            "jnx_key": "412",
+            "jnx_value": "Vinh",
+            "province_id": "40",
+            "tenant_key": "0639",
+            "tenant_value": "Vinh"
+        },
+        {
+            "jnx_key": "426",
+            "jnx_value": "Yên Thành",
+            "province_id": "40",
+            "tenant_key": "0678",
+            "tenant_value": "Yên Thành"
+        }
+    ],
+    "06": [
+        {
+            "jnx_key": "061",
+            "jnx_value": "Ba Bể",
+            "province_id": "06",
+            "tenant_key": "0013",
+            "tenant_value": "Ba Bể"
+        },
+        {
+            "jnx_key": "058",
+            "jnx_value": "Bắc Kạn",
+            "province_id": "06",
+            "tenant_key": "0035",
+            "tenant_value": "Bắc Kạn"
+        },
+        {
+            "jnx_key": "063",
+            "jnx_value": "Bạch Thông",
+            "province_id": "06",
+            "tenant_key": "0024",
+            "tenant_value": "Bạch Thông"
+        },
+        {
+            "jnx_key": "064",
+            "jnx_value": "Chợ Đồn",
+            "province_id": "06",
+            "tenant_key": "0112",
+            "tenant_value": "Chợ Đồn"
+        },
+        {
+            "jnx_key": "065",
+            "jnx_value": "Chợ Mới",
+            "province_id": "06",
+            "tenant_key": "0115",
+            "tenant_value": "Chợ Mới"
+        },
+        {
+            "jnx_key": "066",
+            "jnx_value": "Na Rì",
+            "province_id": "06",
+            "tenant_key": "0368",
+            "tenant_value": "Na Rì"
+        },
+        {
+            "jnx_key": "062",
+            "jnx_value": "Ngân Sơn",
+            "province_id": "06",
+            "tenant_key": "0379",
+            "tenant_value": "Ngân Sơn"
+        },
+        {
+            "jnx_key": "060",
+            "jnx_value": "Pác Nặm",
+            "province_id": "06",
+            "tenant_key": "0408",
+            "tenant_value": "Pác Nặm"
+        }
+    ],
+    "22": [
+        {
+            "jnx_key": "202",
+            "jnx_value": "Ba Chẽ",
+            "province_id": "22",
+            "tenant_key": "0014",
+            "tenant_value": "Ba Chẽ"
+        },
+        {
+            "jnx_key": "198",
+            "jnx_value": "Bình Liêu",
+            "province_id": "22",
+            "tenant_key": "0052",
+            "tenant_value": "Bình Liêu"
+        },
+        {
+            "jnx_key": "195",
+            "jnx_value": "Cẩm Phả",
+            "province_id": "22",
+            "tenant_key": "0087",
+            "tenant_value": "Cẩm Phả"
+        },
+        {
+            "jnx_key": "207",
+            "jnx_value": "Cô Tô",
+            "province_id": "22",
+            "tenant_key": "0123",
+            "tenant_value": "Cô Tô"
+        },
+        {
+            "jnx_key": "200",
+            "jnx_value": "Đầm Hà",
+            "province_id": "22",
+            "tenant_key": "0161",
+            "tenant_value": "Đầm Hà"
+        },
+        {
+            "jnx_key": "205",
+            "jnx_value": "Đông Triều",
+            "province_id": "22",
+            "tenant_key": "0181",
+            "tenant_value": "Đông Triều"
+        },
+        {
+            "jnx_key": "193",
+            "jnx_value": "Hạ Long",
+            "province_id": "22",
+            "tenant_key": "0224",
+            "tenant_value": "Hạ Long"
+        },
+        {
+            "jnx_key": "201",
+            "jnx_value": "Hải Hà",
+            "province_id": "22",
+            "tenant_key": "0683",
+            "tenant_value": "Hải Hà"
+        },
+        {
+            "jnx_key": "204",
+            "jnx_value": "Hoành Bồ",
+            "province_id": "22",
+            "tenant_key": "0250",
+            "tenant_value": "Hoành Bồ"
+        },
+        {
+            "jnx_key": "194",
+            "jnx_value": "Móng Cái",
+            "province_id": "22",
+            "tenant_key": "0349",
+            "tenant_value": "Móng Cái"
+        },
+        {
+            "jnx_key": "206",
+            "jnx_value": "Quảng Yên",
+            "province_id": "22",
+            "tenant_key": "0969",
+            "tenant_value": "Quảng Yên"
+        },
+        {
+            "jnx_key": "199",
+            "jnx_value": "Tiên Yên",
+            "province_id": "22",
+            "tenant_key": "0584",
+            "tenant_value": "Tiên Yên"
+        },
+        {
+            "jnx_key": "196",
+            "jnx_value": "Uông Bí",
+            "province_id": "22",
+            "tenant_key": "0622",
+            "tenant_value": "Uông Bí"
+        },
+        {
+            "jnx_key": "203",
+            "jnx_value": "Vân Đồn",
+            "province_id": "22",
+            "tenant_key": "0633",
+            "tenant_value": "Vân Đồn"
+        }
+    ],
+    "01": [
+        {
+            "jnx_key": "001",
+            "jnx_value": "Ba Đình",
+            "province_id": "01",
+            "tenant_key": "0015",
+            "tenant_value": "Ba Đình"
+        },
+        {
+            "jnx_key": "271",
+            "jnx_value": "Ba Vì",
+            "province_id": "01",
+            "tenant_key": "0018",
+            "tenant_value": "Ba Vì"
+        },
+        {
+            "jnx_key": "021",
+            "jnx_value": "Bắc Từ Liêm",
+            "province_id": "01",
+            "tenant_key": "0974",
+            "tenant_value": "Bắc Từ Liêm"
+        },
+        {
+            "jnx_key": "005",
+            "jnx_value": "Cầu Giấy",
+            "province_id": "01",
+            "tenant_key": "0093",
+            "tenant_value": "Cầu Giấy"
+        },
+        {
+            "jnx_key": "277",
+            "jnx_value": "Chương Mỹ",
+            "province_id": "01",
+            "tenant_key": "0121",
+            "tenant_value": "Chương Mỹ"
+        },
+        {
+            "jnx_key": "273",
+            "jnx_value": "Đan Phượng",
+            "province_id": "01",
+            "tenant_key": "0152",
+            "tenant_value": "Đan Phượng"
+        },
+        {
+            "jnx_key": "017",
+            "jnx_value": "Đông Anh",
+            "province_id": "01",
+            "tenant_key": "0174",
+            "tenant_value": "Đông Anh"
+        },
+        {
+            "jnx_key": "006",
+            "jnx_value": "Đống Đa",
+            "province_id": "01",
+            "tenant_key": "0188",
+            "tenant_value": "Đống Đa"
+        },
+        {
+            "jnx_key": "018",
+            "jnx_value": "Gia Lâm",
+            "province_id": "01",
+            "tenant_key": "0201",
+            "tenant_value": "Gia Lâm"
+        },
+        {
+            "jnx_key": "268",
+            "jnx_value": "Hà Đông",
+            "province_id": "01",
+            "tenant_key": "0216",
+            "tenant_value": "Hà Đông"
+        },
+        {
+            "jnx_key": "007",
+            "jnx_value": "Hai Bà Trưng",
+            "province_id": "01",
+            "tenant_key": "0225",
+            "tenant_value": "Hai Bà Trưng"
+        },
+        {
+            "jnx_key": "274",
+            "jnx_value": "Hoài Đức",
+            "province_id": "01",
+            "tenant_key": "0244",
+            "tenant_value": "Hoài Đức"
+        },
+        {
+            "jnx_key": "002",
+            "jnx_value": "Hoàn Kiếm",
+            "province_id": "01",
+            "tenant_key": "0246",
+            "tenant_value": "Hoàn Kiếm"
+        },
+        {
+            "jnx_key": "008",
+            "jnx_value": "Hoàng Mai",
+            "province_id": "01",
+            "tenant_key": "0247",
+            "tenant_value": "Hoàng Mai"
+        },
+        {
+            "jnx_key": "004",
+            "jnx_value": "Long Biên",
+            "province_id": "01",
+            "tenant_key": "0320",
+            "tenant_value": "Long Biên"
+        },
+        {
+            "jnx_key": "250",
+            "jnx_value": "Mê Linh",
+            "province_id": "01",
+            "tenant_key": "0344",
+            "tenant_value": "Mê Linh"
+        },
+        {
+            "jnx_key": "282",
+            "jnx_value": "Mỹ Đức",
+            "province_id": "01",
+            "tenant_key": "0361",
+            "tenant_value": "Mỹ Đức"
+        },
+        {
+            "jnx_key": "019",
+            "jnx_value": "Nam Từ Liêm",
+            "province_id": "01",
+            "tenant_key": "0971",
+            "tenant_value": "Nam Từ Liêm"
+        },
+        {
+            "jnx_key": "280",
+            "jnx_value": "Phú Xuyên",
+            "province_id": "01",
+            "tenant_key": "0429",
+            "tenant_value": "Phú Xuyên"
+        },
+        {
+            "jnx_key": "272",
+            "jnx_value": "Phúc Thọ",
+            "province_id": "01",
+            "tenant_key": "0436",
+            "tenant_value": "Phúc Thọ"
+        },
+        {
+            "jnx_key": "275",
+            "jnx_value": "Quốc Oai",
+            "province_id": "01",
+            "tenant_key": "0472",
+            "tenant_value": "Quốc Oai"
+        },
+        {
+            "jnx_key": "016",
+            "jnx_value": "Sóc Sơn",
+            "province_id": "01",
+            "tenant_key": "016",
+            "tenant_value": "Sóc Sơn"
+        },
+        {
+            "jnx_key": "269",
+            "jnx_value": "Sơn Tây",
+            "province_id": "01",
+            "tenant_key": "0497",
+            "tenant_value": "Sơn Tây"
+        },
+        {
+            "jnx_key": "003",
+            "jnx_value": "Tây Hồ",
+            "province_id": "01",
+            "tenant_key": "0531",
+            "tenant_value": "Tây Hồ"
+        },
+        {
+            "jnx_key": "276",
+            "jnx_value": "Thạch Thất",
+            "province_id": "01",
+            "tenant_key": "0538",
+            "tenant_value": "Thạch Thất"
+        },
+        {
+            "jnx_key": "278",
+            "jnx_value": "Thanh Oai",
+            "province_id": "01",
+            "tenant_key": "0552",
+            "tenant_value": "Thanh Oai"
+        },
+        {
+            "jnx_key": "020",
+            "jnx_value": "Thanh Trì",
+            "province_id": "01",
+            "tenant_key": "0555",
+            "tenant_value": "Thanh Trì"
+        },
+        {
+            "jnx_key": "009",
+            "jnx_value": "Thanh Xuân",
+            "province_id": "01",
+            "tenant_key": "0556",
+            "tenant_value": "Thanh Xuân"
+        },
+        {
+            "jnx_key": "279",
+            "jnx_value": "Thường Tín",
+            "province_id": "01",
+            "tenant_key": "0577",
+            "tenant_value": "Thường Tín"
+        },
+        {
+            "jnx_key": "281",
+            "jnx_value": "Ứng Hòa",
+            "province_id": "01",
+            "tenant_key": "0623",
+            "tenant_value": "Ứng Hòa"
+        }
+    ],
+    "44": [
+        {
+            "jnx_key": "458",
+            "jnx_value": "Ba Đồn",
+            "province_id": "44",
+            "tenant_key": "0464",
+            "tenant_value": "Ba Đồn"
+        },
+        {
+            "jnx_key": "455",
+            "jnx_value": "Bố Trạch",
+            "province_id": "44",
+            "tenant_key": "0062",
+            "tenant_value": "Bố Trạch"
+        },
+        {
+            "jnx_key": "450",
+            "jnx_value": "Đồng Hới",
+            "province_id": "44",
+            "tenant_key": "0182",
+            "tenant_value": "Đồng Hới"
+        },
+        {
+            "jnx_key": "457",
+            "jnx_value": "Lệ Thủy",
+            "province_id": "44",
+            "tenant_key": "0318",
+            "tenant_value": "Lệ Thủy"
+        },
+        {
+            "jnx_key": "452",
+            "jnx_value": "Minh Hóa",
+            "province_id": "44",
+            "tenant_key": "0345",
+            "tenant_value": "Minh Hóa"
+        },
+        {
+            "jnx_key": "456",
+            "jnx_value": "Quảng Ninh",
+            "province_id": "44",
+            "tenant_key": "0463",
+            "tenant_value": "Quảng Ninh"
+        },
+        {
+            "jnx_key": "454",
+            "jnx_value": "Quảng Trạch",
+            "province_id": "44",
+            "tenant_key": "0719",
+            "tenant_value": "Quảng Trạch"
+        },
+        {
+            "jnx_key": "453",
+            "jnx_value": "Tuyên Hóa",
+            "province_id": "44",
+            "tenant_key": "0613",
+            "tenant_value": "Tuyên Hóa"
+        }
+    ],
+    "77": [
+        {
+            "jnx_key": "748",
+            "jnx_value": "Bà Rịa",
+            "province_id": "77",
+            "tenant_key": "0019",
+            "tenant_value": "Bà Rịa"
+        },
+        {
+            "jnx_key": "750",
+            "jnx_value": "Châu Đức",
+            "province_id": "77",
+            "tenant_key": "0097",
+            "tenant_value": "Châu Đức"
+        },
+        {
+            "jnx_key": "753",
+            "jnx_value": "Đất Đỏ",
+            "province_id": "77",
+            "tenant_key": "0163",
+            "tenant_value": "Đất Đỏ"
+        },
+        {
+            "jnx_key": "752",
+            "jnx_value": "Long Điền",
+            "province_id": "77",
+            "tenant_key": "0321",
+            "tenant_value": "Long Điền"
+        },
+        {
+            "jnx_key": "754",
+            "jnx_value": "Phú Mỹ",
+            "province_id": "77",
+            "tenant_key": "0432",
+            "tenant_value": "Phù Mỹ"
+        },
+        {
+            "jnx_key": "747",
+            "jnx_value": "Vũng Tàu",
+            "province_id": "77",
+            "tenant_key": "0658",
+            "tenant_value": "Vũng Tàu"
+        },
+        {
+            "jnx_key": "751",
+            "jnx_value": "Xuyên Mộc",
+            "province_id": "77",
+            "tenant_key": "0662",
+            "tenant_value": "Xuyên Mộc"
+        }
+    ],
+    "38": [
+        {
+            "jnx_key": "386",
+            "jnx_value": "Bá Thước",
+            "province_id": "38",
+            "tenant_key": "0020",
+            "tenant_value": "Bá Thước"
+        },
+        {
+            "jnx_key": "381",
+            "jnx_value": "Bỉm Sơn",
+            "province_id": "38",
+            "tenant_key": "0047",
+            "tenant_value": "Bỉm Sơn"
+        },
+        {
+            "jnx_key": "390",
+            "jnx_value": "Cẩm Thủy",
+            "province_id": "38",
+            "tenant_key": "0088",
+            "tenant_value": "Cẩm Thủy"
+        },
+        {
+            "jnx_key": "405",
+            "jnx_value": "Đông Sơn",
+            "province_id": "38",
+            "tenant_key": "0180",
+            "tenant_value": "Đông Sơn"
+        },
+        {
+            "jnx_key": "392",
+            "jnx_value": "Hà Trung",
+            "province_id": "38",
+            "tenant_key": "0221",
+            "tenant_value": "Hà Trung"
+        },
+        {
+            "jnx_key": "400",
+            "jnx_value": "Hậu Lộc",
+            "province_id": "38",
+            "tenant_key": "0234",
+            "tenant_value": "Hậu Lộc"
+        },
+        {
+            "jnx_key": "399",
+            "jnx_value": "Hoằng Hóa",
+            "province_id": "38",
+            "tenant_key": "0251",
+            "tenant_value": "Hoằng Hóa"
+        },
+        {
+            "jnx_key": "388",
+            "jnx_value": "Lang Chánh",
+            "province_id": "38",
+            "tenant_key": "0308",
+            "tenant_value": "Lang Chánh"
+        },
+        {
+            "jnx_key": "384",
+            "jnx_value": "Mường Lát",
+            "province_id": "38",
+            "tenant_key": "0358",
+            "tenant_value": "Mường Lát"
+        },
+        {
+            "jnx_key": "401",
+            "jnx_value": "Nga Sơn",
+            "province_id": "38",
+            "tenant_key": "0377",
+            "tenant_value": "Nga Sơn"
+        },
+        {
+            "jnx_key": "389",
+            "jnx_value": "Ngọc Lặc",
+            "province_id": "38",
+            "tenant_key": "0388",
+            "tenant_value": "Ngọc Lặc"
+        },
+        {
+            "jnx_key": "403",
+            "jnx_value": "Như Thanh",
+            "province_id": "38",
+            "tenant_key": "0396",
+            "tenant_value": "Như Thanh"
+        },
+        {
+            "jnx_key": "402",
+            "jnx_value": "Như Xuân",
+            "province_id": "38",
+            "tenant_key": "0397",
+            "tenant_value": "Như Xuân"
+        },
+        {
+            "jnx_key": "404",
+            "jnx_value": "Nông Cống",
+            "province_id": "38",
+            "tenant_key": "0405",
+            "tenant_value": "Nông Cống"
+        },
+        {
+            "jnx_key": "385",
+            "jnx_value": "Quan Hóa",
+            "province_id": "38",
+            "tenant_key": "0456",
+            "tenant_value": "Quan Hóa"
+        },
+        {
+            "jnx_key": "387",
+            "jnx_value": "Quan Sơn",
+            "province_id": "38",
+            "tenant_key": "0457",
+            "tenant_value": "Quan Sơn"
+        },
+        {
+            "jnx_key": "406",
+            "jnx_value": "Quảng Xương",
+            "province_id": "38",
+            "tenant_key": "0467",
+            "tenant_value": "Quảng Xương"
+        },
+        {
+            "jnx_key": "382",
+            "jnx_value": "Sầm Sơn",
+            "province_id": "38",
+            "tenant_key": "0482",
+            "tenant_value": "Sầm Sơn"
+        },
+        {
+            "jnx_key": "391",
+            "jnx_value": "Thạch Thành",
+            "province_id": "38",
+            "tenant_key": "0537",
+            "tenant_value": "Thạch Thành"
+        },
+        {
+            "jnx_key": "380",
+            "jnx_value": "Thanh Hóa",
+            "province_id": "38",
+            "tenant_key": "0548",
+            "tenant_value": "Thanh Hóa"
+        },
+        {
+            "jnx_key": "398",
+            "jnx_value": "Thiệu Hóa",
+            "province_id": "38",
+            "tenant_key": "0562",
+            "tenant_value": "Thiệu Hoá"
+        },
+        {
+            "jnx_key": "395",
+            "jnx_value": "Thọ Xuân",
+            "province_id": "38",
+            "tenant_key": "0563",
+            "tenant_value": "Thọ Xuân"
+        },
+        {
+            "jnx_key": "396",
+            "jnx_value": "Thường Xuân",
+            "province_id": "38",
+            "tenant_key": "0578",
+            "tenant_value": "Thường Xuân"
+        },
+        {
+            "jnx_key": "407",
+            "jnx_value": "Tĩnh Gia",
+            "province_id": "38",
+            "tenant_key": "0586",
+            "tenant_value": "Tĩnh Gia"
+        },
+        {
+            "jnx_key": "397",
+            "jnx_value": "Triệu Sơn",
+            "province_id": "38",
+            "tenant_key": "0601",
+            "tenant_value": "Triệu Sơn"
+        },
+        {
+            "jnx_key": "393",
+            "jnx_value": "Vĩnh Lộc",
+            "province_id": "38",
+            "tenant_key": "0646",
+            "tenant_value": "Vĩnh Lộc"
+        },
+        {
+            "jnx_key": "394",
+            "jnx_value": "Yên Định",
+            "province_id": "38",
+            "tenant_key": "0668",
+            "tenant_value": "Yên Định"
+        }
+    ],
+    "51": [
+        {
+            "jnx_key": "535",
+            "jnx_value": "Ba Tơ",
+            "province_id": "51",
+            "tenant_key": "0016",
+            "tenant_value": "Ba Tơ"
+        },
+        {
+            "jnx_key": "524",
+            "jnx_value": "Bình Sơn",
+            "province_id": "51",
+            "tenant_key": "0056",
+            "tenant_value": "Bình Sơn"
+        },
+        {
+            "jnx_key": "534",
+            "jnx_value": "Đức Phổ",
+            "province_id": "51",
+            "tenant_key": "0194",
+            "tenant_value": "Đức Phổ"
+        },
+        {
+            "jnx_key": "536",
+            "jnx_value": "Lý Sơn",
+            "province_id": "51",
+            "tenant_key": "0337",
+            "tenant_value": "Lý Sơn"
+        },
+        {
+            "jnx_key": "531",
+            "jnx_value": "Minh Long",
+            "province_id": "51",
+            "tenant_key": "0346",
+            "tenant_value": "Minh Long"
+        },
+        {
+            "jnx_key": "533",
+            "jnx_value": "Mộ Đức",
+            "province_id": "51",
+            "tenant_key": "0350",
+            "tenant_value": "Mộ Đức"
+        },
+        {
+            "jnx_key": "532",
+            "jnx_value": "Nghĩa Hành",
+            "province_id": "51",
+            "tenant_key": "0383",
+            "tenant_value": "Nghĩa Hành"
+        },
+        {
+            "jnx_key": "522",
+            "jnx_value": "Quảng Ngãi",
+            "province_id": "51",
+            "tenant_key": "0462",
+            "tenant_value": "Quảng Ngãi"
+        },
+        {
+            "jnx_key": "529",
+            "jnx_value": "Sơn Hà",
+            "province_id": "51",
+            "tenant_key": "0494",
+            "tenant_value": "Sơn Hà"
+        },
+        {
+            "jnx_key": "530",
+            "jnx_value": "Sơn Tây",
+            "province_id": "51",
+            "tenant_key": "0497",
+            "tenant_value": "Sơn Tây"
+        },
+        {
+            "jnx_key": "527",
+            "jnx_value": "Sơn Tịnh",
+            "province_id": "51",
+            "tenant_key": "0499",
+            "tenant_value": "Sơn Tịnh"
+        },
+        {
+            "jnx_key": "526",
+            "jnx_value": "Tây Trà",
+            "province_id": "51",
+            "tenant_key": "0534",
+            "tenant_value": "Tây Trà"
+        },
+        {
+            "jnx_key": "525",
+            "jnx_value": "Trà Bồng",
+            "province_id": "51",
+            "tenant_key": "0588",
+            "tenant_value": "Trà Bồng"
+        },
+        {
+            "jnx_key": "528",
+            "jnx_value": "Tư Nghĩa",
+            "province_id": "51",
+            "tenant_key": "0615",
+            "tenant_value": "Tư Nghĩa"
+        }
+    ],
+    "83": [
+        {
+            "jnx_key": "836",
+            "jnx_value": "Ba Tri",
+            "province_id": "83",
+            "tenant_key": "0017",
+            "tenant_value": "Ba Tri"
+        },
+        {
+            "jnx_key": "829",
+            "jnx_value": "Bến Tre",
+            "province_id": "83",
+            "tenant_key": "0045",
+            "tenant_value": "Bến Tre"
+        },
+        {
+            "jnx_key": "835",
+            "jnx_value": "Bình Đại",
+            "province_id": "83",
+            "tenant_key": "0049",
+            "tenant_value": "Bình Đại"
+        },
+        {
+            "jnx_key": "831",
+            "jnx_value": "Châu Thành",
+            "province_id": "83",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "832",
+            "jnx_value": "Chợ Lách",
+            "province_id": "83",
+            "tenant_key": "0114",
+            "tenant_value": "Chợ Lách"
+        },
+        {
+            "jnx_key": "834",
+            "jnx_value": "Giồng Trôm",
+            "province_id": "83",
+            "tenant_key": "0209",
+            "tenant_value": "Giồng Trôm"
+        },
+        {
+            "jnx_key": "838",
+            "jnx_value": "Mỏ Cày Bắc",
+            "province_id": "83",
+            "tenant_key": "0347",
+            "tenant_value": "Mỏ Cày Bắc"
+        },
+        {
+            "jnx_key": "833",
+            "jnx_value": "Mỏ Cày Nam",
+            "province_id": "83",
+            "tenant_key": "0348",
+            "tenant_value": "Mỏ Cày Nam"
+        },
+        {
+            "jnx_key": "837",
+            "jnx_value": "Thạnh Phú",
+            "province_id": "83",
+            "tenant_key": "0558",
+            "tenant_value": "Thạnh Phú"
+        }
+    ],
+    "58": [
+        {
+            "jnx_key": "584",
+            "jnx_value": "Bác Ái",
+            "province_id": "58",
+            "tenant_key": "0021",
+            "tenant_value": "Bác Ái"
+        },
+        {
+            "jnx_key": "586",
+            "jnx_value": "Ninh Hải",
+            "province_id": "58",
+            "tenant_key": "0400",
+            "tenant_value": "Ninh Hải"
+        },
+        {
+            "jnx_key": "587",
+            "jnx_value": "Ninh Phước",
+            "province_id": "58",
+            "tenant_key": "0403",
+            "tenant_value": "Ninh Phước"
+        },
+        {
+            "jnx_key": "585",
+            "jnx_value": "Ninh Sơn",
+            "province_id": "58",
+            "tenant_key": "0404",
+            "tenant_value": "Ninh Sơn"
+        },
+        {
+            "jnx_key": "582",
+            "jnx_value": "Phan Rang-Tháp Chàm",
+            "province_id": "58",
+            "tenant_key": "0409",
+            "tenant_value": "Phan Rang-Tháp Chàm"
+        },
+        {
+            "jnx_key": "588",
+            "jnx_value": "Thuận Bắc",
+            "province_id": "58",
+            "tenant_key": "0573",
+            "tenant_value": "Thuận Bắc"
+        },
+        {
+            "jnx_key": "589",
+            "jnx_value": "Thuận Nam",
+            "province_id": "58",
+            "tenant_key": "0692",
+            "tenant_value": "Thuận Nam"
+        }
+    ],
+    "60": [
+        {
+            "jnx_key": "596",
+            "jnx_value": "Bắc Bình",
+            "province_id": "60",
+            "tenant_key": "0032",
+            "tenant_value": "Bắc Bình"
+        },
+        {
+            "jnx_key": "600",
+            "jnx_value": "Đức Linh",
+            "province_id": "60",
+            "tenant_key": "0193",
+            "tenant_value": "Đức Linh"
+        },
+        {
+            "jnx_key": "601",
+            "jnx_value": "Hàm Tân",
+            "province_id": "60",
+            "tenant_key": "0230",
+            "tenant_value": "Hàm Tân"
+        },
+        {
+            "jnx_key": "597",
+            "jnx_value": "Hàm Thuận Bắc",
+            "province_id": "60",
+            "tenant_key": "0231",
+            "tenant_value": "Hàm Thuận Bắc"
+        },
+        {
+            "jnx_key": "598",
+            "jnx_value": "Hàm Thuận Nam",
+            "province_id": "60",
+            "tenant_key": "0232",
+            "tenant_value": "Hàm Thuận Nam"
+        },
+        {
+            "jnx_key": "594",
+            "jnx_value": "La Gi",
+            "province_id": "60",
+            "tenant_key": "0302",
+            "tenant_value": "La Gi"
+        },
+        {
+            "jnx_key": "593",
+            "jnx_value": "Phan Thiết",
+            "province_id": "60",
+            "tenant_key": "0410",
+            "tenant_value": "Phan Thiết"
+        },
+        {
+            "jnx_key": "602",
+            "jnx_value": "Phú Quí",
+            "province_id": "60",
+            "tenant_key": "0422",
+            "tenant_value": "Phú Quí"
+        },
+        {
+            "jnx_key": "599",
+            "jnx_value": "Tánh Linh",
+            "province_id": "60",
+            "tenant_key": "0508",
+            "tenant_value": "Tánh Linh"
+        },
+        {
+            "jnx_key": "595",
+            "jnx_value": "Tuy Phong",
+            "province_id": "60",
+            "tenant_key": "595",
+            "tenant_value": "Tuy Phong"
+        }
+    ],
+    "24": [
+        {
+            "jnx_key": "213",
+            "jnx_value": "Bắc Giang",
+            "province_id": "24",
+            "tenant_key": "0033",
+            "tenant_value": "Bắc Giang"
+        },
+        {
+            "jnx_key": "223",
+            "jnx_value": "Hiệp Hòa",
+            "province_id": "24",
+            "tenant_key": "0236",
+            "tenant_value": "Hiệp Hòa"
+        },
+        {
+            "jnx_key": "217",
+            "jnx_value": "Lạng Giang",
+            "province_id": "24",
+            "tenant_key": "0309",
+            "tenant_value": "Lạng Giang"
+        },
+        {
+            "jnx_key": "218",
+            "jnx_value": "Lục Nam",
+            "province_id": "24",
+            "tenant_key": "0331",
+            "tenant_value": "Lục Nam"
+        },
+        {
+            "jnx_key": "219",
+            "jnx_value": "Lục Ngạn",
+            "province_id": "24",
+            "tenant_key": "0332",
+            "tenant_value": "Lục Ngạn"
+        },
+        {
+            "jnx_key": "220",
+            "jnx_value": "Sơn Động",
+            "province_id": "24",
+            "tenant_key": "0492",
+            "tenant_value": "Sơn Động"
+        },
+        {
+            "jnx_key": "216",
+            "jnx_value": "Tân Yên",
+            "province_id": "24",
+            "tenant_key": "0528",
+            "tenant_value": "Tân Yên"
+        },
+        {
+            "jnx_key": "222",
+            "jnx_value": "Việt Yên",
+            "province_id": "24",
+            "tenant_key": "0638",
+            "tenant_value": "Việt Yên"
+        },
+        {
+            "jnx_key": "221",
+            "jnx_value": "Yên Dũng",
+            "province_id": "24",
+            "tenant_key": "0667",
+            "tenant_value": "Yên Dũng"
+        },
+        {
+            "jnx_key": "215",
+            "jnx_value": "Yên Thế",
+            "province_id": "24",
+            "tenant_key": "0679",
+            "tenant_value": "Yên Thế"
+        }
+    ],
+    "10": [
+        {
+            "jnx_key": "085",
+            "jnx_value": "Bắc Hà",
+            "province_id": "10",
+            "tenant_key": "0034",
+            "tenant_value": "Bắc Hà"
+        },
+        {
+            "jnx_key": "086",
+            "jnx_value": "Bảo Thắng",
+            "province_id": "10",
+            "tenant_key": "0029",
+            "tenant_value": "Bảo Thắng"
+        },
+        {
+            "jnx_key": "087",
+            "jnx_value": "Bảo Yên",
+            "province_id": "10",
+            "tenant_key": "0030",
+            "tenant_value": "Bảo Yên"
+        },
+        {
+            "jnx_key": "082",
+            "jnx_value": "Bát Xát",
+            "province_id": "10",
+            "tenant_key": "082",
+            "tenant_value": "Bát Xát"
+        },
+        {
+            "jnx_key": "080",
+            "jnx_value": "Lào Cai",
+            "province_id": "10",
+            "tenant_key": "0311",
+            "tenant_value": "Lào Cai"
+        },
+        {
+            "jnx_key": "083",
+            "jnx_value": "Mường Khương",
+            "province_id": "10",
+            "tenant_key": "0356",
+            "tenant_value": "Mường Khương"
+        },
+        {
+            "jnx_key": "088",
+            "jnx_value": "Sa Pa",
+            "province_id": "10",
+            "tenant_key": "0480",
+            "tenant_value": "Sa Pa"
+        },
+        {
+            "jnx_key": "084",
+            "jnx_value": "Si Ma Cai",
+            "province_id": "10",
+            "tenant_key": "0483",
+            "tenant_value": "Si Ma Cai"
+        },
+        {
+            "jnx_key": "089",
+            "jnx_value": "Văn Bàn",
+            "province_id": "10",
+            "tenant_key": "0625",
+            "tenant_value": "Văn Bàn"
+        }
+    ],
+    "95": [
+        {
+            "jnx_key": "954",
+            "jnx_value": "Bạc Liêu",
+            "province_id": "95",
+            "tenant_key": "0022",
+            "tenant_value": "Bạc Liêu"
+        },
+        {
+            "jnx_key": "960",
+            "jnx_value": "Đông Hải",
+            "province_id": "95",
+            "tenant_key": "0177",
+            "tenant_value": "Đông Hải"
+        },
+        {
+            "jnx_key": "959",
+            "jnx_value": "Giá Rai",
+            "province_id": "95",
+            "tenant_key": "0205",
+            "tenant_value": "Giá Rai"
+        },
+        {
+            "jnx_key": "961",
+            "jnx_value": "Hoà Bình",
+            "province_id": "95",
+            "tenant_key": "0240",
+            "tenant_value": "Hòa Bình"
+        },
+        {
+            "jnx_key": "956",
+            "jnx_value": "Hồng Dân",
+            "province_id": "95",
+            "tenant_key": "956",
+            "tenant_value": "Hồng Dân"
+        },
+        {
+            "jnx_key": "957",
+            "jnx_value": "Phước Long",
+            "province_id": "95",
+            "tenant_key": "0440",
+            "tenant_value": "Phước Long"
+        },
+        {
+            "jnx_key": "958",
+            "jnx_value": "Vĩnh Lợi",
+            "province_id": "95",
+            "tenant_key": "0647",
+            "tenant_value": "Vĩnh Lợi"
+        }
+    ],
+    "02": [
+        {
+            "jnx_key": "031",
+            "jnx_value": "Bắc Mê",
+            "province_id": "02",
+            "tenant_key": "0036",
+            "tenant_value": "Bắc Mê"
+        },
+        {
+            "jnx_key": "034",
+            "jnx_value": "Bắc Quang",
+            "province_id": "02",
+            "tenant_key": "0038",
+            "tenant_value": "Bắc Quang"
+        },
+        {
+            "jnx_key": "026",
+            "jnx_value": "Đồng Văn",
+            "province_id": "02",
+            "tenant_key": "0185",
+            "tenant_value": "Đồng Văn"
+        },
+        {
+            "jnx_key": "024",
+            "jnx_value": "Hà Giang",
+            "province_id": "02",
+            "tenant_key": "0217",
+            "tenant_value": "Hà Giang"
+        },
+        {
+            "jnx_key": "032",
+            "jnx_value": "Hoàng Su Phì",
+            "province_id": "02",
+            "tenant_key": "0249",
+            "tenant_value": "Hoàng Su Phì"
+        },
+        {
+            "jnx_key": "027",
+            "jnx_value": "Mèo Vạc",
+            "province_id": "02",
+            "tenant_key": "0343",
+            "tenant_value": "Mèo Vạc"
+        },
+        {
+            "jnx_key": "029",
+            "jnx_value": "Quản Bạ",
+            "province_id": "02",
+            "tenant_key": "0458",
+            "tenant_value": "Quản Bạ"
+        },
+        {
+            "jnx_key": "035",
+            "jnx_value": "Quang Bình",
+            "province_id": "02",
+            "tenant_key": "0459",
+            "tenant_value": "Quang Bình"
+        },
+        {
+            "jnx_key": "030",
+            "jnx_value": "Vị Xuyên",
+            "province_id": "02",
+            "tenant_key": "0636",
+            "tenant_value": "Vị Xuyên"
+        },
+        {
+            "jnx_key": "033",
+            "jnx_value": "Xín Mần",
+            "province_id": "02",
+            "tenant_key": "0659",
+            "tenant_value": "Xín Mần"
+        },
+        {
+            "jnx_key": "028",
+            "jnx_value": "Yên Minh",
+            "province_id": "02",
+            "tenant_key": "0673",
+            "tenant_value": "Yên Minh"
+        }
+    ],
+    "27": [
+        {
+            "jnx_key": "256",
+            "jnx_value": "Bắc Ninh",
+            "province_id": "27",
+            "tenant_key": "0037",
+            "tenant_value": "Bắc Ninh"
+        },
+        {
+            "jnx_key": "263",
+            "jnx_value": "Gia Bình",
+            "province_id": "27",
+            "tenant_key": "0200",
+            "tenant_value": "Gia Bình"
+        },
+        {
+            "jnx_key": "264",
+            "jnx_value": "Lương Tài",
+            "province_id": "27",
+            "tenant_key": "0335",
+            "tenant_value": "Lương Tài"
+        },
+        {
+            "jnx_key": "259",
+            "jnx_value": "Quế Võ",
+            "province_id": "27",
+            "tenant_key": "0470",
+            "tenant_value": "Quế Võ"
+        },
+        {
+            "jnx_key": "262",
+            "jnx_value": "Thuận Thành",
+            "province_id": "27",
+            "tenant_key": "0575",
+            "tenant_value": "Thuận Thành"
+        },
+        {
+            "jnx_key": "260",
+            "jnx_value": "Tiên Du",
+            "province_id": "27",
+            "tenant_key": "0579",
+            "tenant_value": "Tiên Du"
+        },
+        {
+            "jnx_key": "261",
+            "jnx_value": "Từ Sơn",
+            "province_id": "27",
+            "tenant_key": "0618",
+            "tenant_value": "Từ Sơn"
+        },
+        {
+            "jnx_key": "258",
+            "jnx_value": "Yên Phong",
+            "province_id": "27",
+            "tenant_key": "0676",
+            "tenant_value": "Yên Phong"
+        }
+    ],
+    "20": [
+        {
+            "jnx_key": "185",
+            "jnx_value": "Bắc Sơn",
+            "province_id": "20",
+            "tenant_key": "0039",
+            "tenant_value": "Bắc Sơn"
+        },
+        {
+            "jnx_key": "181",
+            "jnx_value": "Bình Gia",
+            "province_id": "20",
+            "tenant_key": "0050",
+            "tenant_value": "Bình Gia"
+        },
+        {
+            "jnx_key": "183",
+            "jnx_value": "Cao Lộc",
+            "province_id": "20",
+            "tenant_key": "0080",
+            "tenant_value": "Cao Lộc"
+        },
+        {
+            "jnx_key": "187",
+            "jnx_value": "Chi Lăng",
+            "province_id": "20",
+            "tenant_key": "0109",
+            "tenant_value": "Chi Lăng"
+        },
+        {
+            "jnx_key": "189",
+            "jnx_value": "Đình Lập",
+            "province_id": "20",
+            "tenant_key": "0168",
+            "tenant_value": "Đình Lập"
+        },
+        {
+            "jnx_key": "186",
+            "jnx_value": "Hữu Lũng",
+            "province_id": "20",
+            "tenant_key": "0269",
+            "tenant_value": "Hữu Lũng"
+        },
+        {
+            "jnx_key": "178",
+            "jnx_value": "Lạng Sơn",
+            "province_id": "20",
+            "tenant_key": "0310",
+            "tenant_value": "Lạng Sơn"
+        },
+        {
+            "jnx_key": "188",
+            "jnx_value": "Lộc Bình",
+            "province_id": "20",
+            "tenant_key": "0328",
+            "tenant_value": "Lộc Bình"
+        },
+        {
+            "jnx_key": "180",
+            "jnx_value": "Tràng Định",
+            "province_id": "20",
+            "tenant_key": "0594",
+            "tenant_value": "Tràng Định"
+        },
+        {
+            "jnx_key": "182",
+            "jnx_value": "Văn Lãng",
+            "province_id": "20",
+            "tenant_key": "0628",
+            "tenant_value": "Văn Lãng"
+        },
+        {
+            "jnx_key": "184",
+            "jnx_value": "Văn Quan",
+            "province_id": "20",
+            "tenant_key": "0630",
+            "tenant_value": "Văn Quan"
+        }
+    ],
+    "74": [
+        {
+            "jnx_key": "726",
+            "jnx_value": "Bắc Tân Uyên",
+            "province_id": "74",
+            "tenant_key": "0704",
+            "tenant_value": "Bắc Tân Uyên"
+        },
+        {
+            "jnx_key": "719",
+            "jnx_value": "Bàu Bàng",
+            "province_id": "74",
+            "tenant_key": "719",
+            "tenant_value": "Bàu Bàng"
+        },
+        {
+            "jnx_key": "721",
+            "jnx_value": "Bến Cát",
+            "province_id": "74",
+            "tenant_key": "0042",
+            "tenant_value": "Bến Cát"
+        },
+        {
+            "jnx_key": "720",
+            "jnx_value": "Dầu Tiếng",
+            "province_id": "74",
+            "tenant_key": "0133",
+            "tenant_value": "Dầu Tiếng"
+        },
+        {
+            "jnx_key": "724",
+            "jnx_value": "Dĩ An",
+            "province_id": "74",
+            "tenant_key": "0135",
+            "tenant_value": "Dĩ An"
+        },
+        {
+            "jnx_key": "722",
+            "jnx_value": "Phú Giáo",
+            "province_id": "74",
+            "tenant_key": "0416",
+            "tenant_value": "Phú Giáo"
+        },
+        {
+            "jnx_key": "723",
+            "jnx_value": "Tân Uyên",
+            "province_id": "74",
+            "tenant_key": "0689",
+            "tenant_value": "Tân Uyên"
+        },
+        {
+            "jnx_key": "718",
+            "jnx_value": "Thủ Dầu Một",
+            "province_id": "74",
+            "tenant_key": "0721",
+            "tenant_value": "Thủ Dầu Một"
+        },
+        {
+            "jnx_key": "725",
+            "jnx_value": "Thuận An",
+            "province_id": "74",
+            "tenant_key": "0370",
+            "tenant_value": "Thuận An"
+        }
+    ],
+    "49": [
+        {
+            "jnx_key": "515",
+            "jnx_value": "Bắc Trà My",
+            "province_id": "49",
+            "tenant_key": "0040",
+            "tenant_value": "Bắc Trà My"
+        },
+        {
+            "jnx_key": "508",
+            "jnx_value": "Duy Xuyên",
+            "province_id": "49",
+            "tenant_key": "0139",
+            "tenant_value": "Duy Xuyên"
+        },
+        {
+            "jnx_key": "506",
+            "jnx_value": "Đại Lộc",
+            "province_id": "49",
+            "tenant_key": "0148",
+            "tenant_value": "Đại Lộc"
+        },
+        {
+            "jnx_key": "507",
+            "jnx_value": "Điện Bàn",
+            "province_id": "49",
+            "tenant_key": "0164",
+            "tenant_value": "Điện Bàn"
+        },
+        {
+            "jnx_key": "505",
+            "jnx_value": "Đông Giang",
+            "province_id": "49",
+            "tenant_key": "0175",
+            "tenant_value": "Đông Giang"
+        },
+        {
+            "jnx_key": "512",
+            "jnx_value": "Hiệp Đức",
+            "province_id": "49",
+            "tenant_key": "0235",
+            "tenant_value": "Hiệp Đức"
+        },
+        {
+            "jnx_key": "503",
+            "jnx_value": "Hội An",
+            "province_id": "49",
+            "tenant_key": "0254",
+            "tenant_value": "Hội An"
+        },
+        {
+            "jnx_key": "510",
+            "jnx_value": "Nam Giang",
+            "province_id": "49",
+            "tenant_key": "0372",
+            "tenant_value": "Nam Giang"
+        },
+        {
+            "jnx_key": "516",
+            "jnx_value": "Nam Trà My",
+            "province_id": "49",
+            "tenant_key": "0374",
+            "tenant_value": "Nam Trà My"
+        },
+        {
+            "jnx_key": "519",
+            "jnx_value": "Nông Sơn",
+            "province_id": "49",
+            "tenant_key": "0681",
+            "tenant_value": "Nông Sơn"
+        },
+        {
+            "jnx_key": "517",
+            "jnx_value": "Núi Thành",
+            "province_id": "49",
+            "tenant_key": "0406",
+            "tenant_value": "Núi Thành"
+        },
+        {
+            "jnx_key": "518",
+            "jnx_value": "Phú Ninh",
+            "province_id": "49",
+            "tenant_key": "0421",
+            "tenant_value": "Phú Ninh"
+        },
+        {
+            "jnx_key": "511",
+            "jnx_value": "Phước Sơn",
+            "province_id": "49",
+            "tenant_key": "0442",
+            "tenant_value": "Phước Sơn"
+        },
+        {
+            "jnx_key": "509",
+            "jnx_value": "Quế Sơn",
+            "province_id": "49",
+            "tenant_key": "0469",
+            "tenant_value": "Quế Sơn"
+        },
+        {
+            "jnx_key": "502",
+            "jnx_value": "Tam Kỳ",
+            "province_id": "49",
+            "tenant_key": "0505",
+            "tenant_value": "Tam Kỳ"
+        },
+        {
+            "jnx_key": "504",
+            "jnx_value": "Tây Giang",
+            "province_id": "49",
+            "tenant_key": "0529",
+            "tenant_value": "Tây Giang"
+        },
+        {
+            "jnx_key": "513",
+            "jnx_value": "Thăng Bình",
+            "province_id": "49",
+            "tenant_key": "0561",
+            "tenant_value": "Thăng Bình"
+        },
+        {
+            "jnx_key": "514",
+            "jnx_value": "Tiên Phước",
+            "province_id": "49",
+            "tenant_key": "0583",
+            "tenant_value": "Tiên Phước"
+        }
+    ],
+    "14": [
+        {
+            "jnx_key": "121",
+            "jnx_value": "Bắc Yên",
+            "province_id": "14",
+            "tenant_key": "0041",
+            "tenant_value": "Bắc Yên"
+        },
+        {
+            "jnx_key": "125",
+            "jnx_value": "Mai Sơn",
+            "province_id": "14",
+            "tenant_key": "0339",
+            "tenant_value": "Mai Sơn"
+        },
+        {
+            "jnx_key": "123",
+            "jnx_value": "Mộc Châu",
+            "province_id": "14",
+            "tenant_key": "0351",
+            "tenant_value": "Mộc Châu"
+        },
+        {
+            "jnx_key": "120",
+            "jnx_value": "Mường La",
+            "province_id": "14",
+            "tenant_key": "0357",
+            "tenant_value": "Mường La"
+        },
+        {
+            "jnx_key": "122",
+            "jnx_value": "Phù Yên",
+            "province_id": "14",
+            "tenant_key": "0434",
+            "tenant_value": "Phù Yên"
+        },
+        {
+            "jnx_key": "118",
+            "jnx_value": "Quỳnh Nhai",
+            "province_id": "14",
+            "tenant_key": "0476",
+            "tenant_value": "Quỳnh Nhai"
+        },
+        {
+            "jnx_key": "116",
+            "jnx_value": "Sơn La",
+            "province_id": "14",
+            "tenant_key": "0496",
+            "tenant_value": "Sơn La"
+        },
+        {
+            "jnx_key": "126",
+            "jnx_value": "Sông Mã",
+            "province_id": "14",
+            "tenant_key": "0490",
+            "tenant_value": "Sông Mã"
+        },
+        {
+            "jnx_key": "127",
+            "jnx_value": "Sốp Cộp",
+            "province_id": "14",
+            "tenant_key": "0491",
+            "tenant_value": "Sốp Cộp"
+        },
+        {
+            "jnx_key": "119",
+            "jnx_value": "Thuận Châu",
+            "province_id": "14",
+            "tenant_key": "0574",
+            "tenant_value": "Thuận Châu"
+        },
+        {
+            "jnx_key": "128",
+            "jnx_value": "Vân Hồ",
+            "province_id": "14",
+            "tenant_key": "0995",
+            "tenant_value": "Vân Hồ"
+        },
+        {
+            "jnx_key": "124",
+            "jnx_value": "Yên Châu",
+            "province_id": "14",
+            "tenant_key": "0666",
+            "tenant_value": "Yên Châu"
+        }
+    ],
+    "04": [
+        {
+            "jnx_key": "043",
+            "jnx_value": "Bảo Lạc",
+            "province_id": "04",
+            "tenant_key": "0025",
+            "tenant_value": "Bảo Lạc"
+        },
+        {
+            "jnx_key": "042",
+            "jnx_value": "Bảo Lâm",
+            "province_id": "04",
+            "tenant_key": "0026",
+            "tenant_value": "Bảo Lâm"
+        },
+        {
+            "jnx_key": "040",
+            "jnx_value": "Cao Bằng",
+            "province_id": "04",
+            "tenant_key": "0077",
+            "tenant_value": "Cao Bằng"
+        },
+        {
+            "jnx_key": "048",
+            "jnx_value": "Hạ Lang",
+            "province_id": "04",
+            "tenant_key": "0223",
+            "tenant_value": "Hạ Lang"
+        },
+        {
+            "jnx_key": "045",
+            "jnx_value": "Hà Quảng",
+            "province_id": "04",
+            "tenant_key": "0218",
+            "tenant_value": "Hà Quảng"
+        },
+        {
+            "jnx_key": "051",
+            "jnx_value": "Hoà An",
+            "province_id": "04",
+            "tenant_key": "0238",
+            "tenant_value": "Hoà An"
+        },
+        {
+            "jnx_key": "052",
+            "jnx_value": "Nguyên Bình",
+            "province_id": "04",
+            "tenant_key": "0391",
+            "tenant_value": "Nguyên Bình"
+        },
+        {
+            "jnx_key": "050",
+            "jnx_value": "Phục Hoà",
+            "province_id": "04",
+            "tenant_key": "0438",
+            "tenant_value": "Phục Hoà"
+        },
+        {
+            "jnx_key": "049",
+            "jnx_value": "Quảng Uyên",
+            "province_id": "04",
+            "tenant_key": "0466",
+            "tenant_value": "Quảng Uyên"
+        },
+        {
+            "jnx_key": "053",
+            "jnx_value": "Thạch An",
+            "province_id": "04",
+            "tenant_key": "0535",
+            "tenant_value": "Thạch An"
+        },
+        {
+            "jnx_key": "044",
+            "jnx_value": "Thông Nông",
+            "province_id": "04",
+            "tenant_key": "0565",
+            "tenant_value": "Thông Nông"
+        },
+        {
+            "jnx_key": "046",
+            "jnx_value": "Trà Lĩnh",
+            "province_id": "04",
+            "tenant_key": "0590",
+            "tenant_value": "Trà Lĩnh"
+        },
+        {
+            "jnx_key": "047",
+            "jnx_value": "Trùng Khánh",
+            "province_id": "04",
+            "tenant_key": "0602",
+            "tenant_value": "Trùng Khánh"
+        }
+    ],
+    "68": [
+        {
+            "jnx_key": "680",
+            "jnx_value": "Bảo Lâm",
+            "province_id": "68",
+            "tenant_key": "0026",
+            "tenant_value": "Bảo Lâm"
+        },
+        {
+            "jnx_key": "673",
+            "jnx_value": "Bảo Lộc",
+            "province_id": "68",
+            "tenant_key": "0028",
+            "tenant_value": "Bảo Lộc"
+        },
+        {
+            "jnx_key": "683",
+            "jnx_value": "Cát Tiên",
+            "province_id": "68",
+            "tenant_key": "0083",
+            "tenant_value": "Cát Tiên"
+        },
+        {
+            "jnx_key": "679",
+            "jnx_value": "Di Linh",
+            "province_id": "68",
+            "tenant_key": "0134",
+            "tenant_value": "Di Linh"
+        },
+        {
+            "jnx_key": "681",
+            "jnx_value": "Đạ Huoai",
+            "province_id": "68",
+            "tenant_key": "0146",
+            "tenant_value": "Đạ Huoai"
+        },
+        {
+            "jnx_key": "672",
+            "jnx_value": "Đà Lạt",
+            "province_id": "68",
+            "tenant_key": "0145",
+            "tenant_value": "Đà Lạt"
+        },
+        {
+            "jnx_key": "682",
+            "jnx_value": "Đạ Tẻh",
+            "province_id": "68",
+            "tenant_key": "0147",
+            "tenant_value": "Đạ Tẻh"
+        },
+        {
+            "jnx_key": "674",
+            "jnx_value": "Đam Rông",
+            "province_id": "68",
+            "tenant_key": "0162",
+            "tenant_value": "Đam Rông"
+        },
+        {
+            "jnx_key": "677",
+            "jnx_value": "Đơn Dương",
+            "province_id": "68",
+            "tenant_key": "0189",
+            "tenant_value": "Đơn Dương"
+        },
+        {
+            "jnx_key": "678",
+            "jnx_value": "Đức Trọng",
+            "province_id": "68",
+            "tenant_key": "0196",
+            "tenant_value": "Đức Trọng"
+        },
+        {
+            "jnx_key": "675",
+            "jnx_value": "Lạc Dương",
+            "province_id": "68",
+            "tenant_key": "0303",
+            "tenant_value": "Lạc Dương"
+        },
+        {
+            "jnx_key": "676",
+            "jnx_value": "Lâm Hà",
+            "province_id": "68",
+            "tenant_key": "0313",
+            "tenant_value": "Lâm Hà"
+        }
+    ],
+    "72": [
+        {
+            "jnx_key": "711",
+            "jnx_value": "Bến Cầu",
+            "province_id": "72",
+            "tenant_key": "0043",
+            "tenant_value": "Bến Cầu"
+        },
+        {
+            "jnx_key": "708",
+            "jnx_value": "Châu Thành",
+            "province_id": "72",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "707",
+            "jnx_value": "Dương Minh Châu",
+            "province_id": "72",
+            "tenant_key": "0142",
+            "tenant_value": "Dương Minh Châu"
+        },
+        {
+            "jnx_key": "710",
+            "jnx_value": "Gò Dầu",
+            "province_id": "72",
+            "tenant_key": "0213",
+            "tenant_value": "Gò Dầu"
+        },
+        {
+            "jnx_key": "709",
+            "jnx_value": "Hòa Thành",
+            "province_id": "72",
+            "tenant_key": "0241",
+            "tenant_value": "Hòa Thành"
+        },
+        {
+            "jnx_key": "705",
+            "jnx_value": "Tân Biên",
+            "province_id": "72",
+            "tenant_key": "0510",
+            "tenant_value": "Tân Biên"
+        },
+        {
+            "jnx_key": "706",
+            "jnx_value": "Tân Châu",
+            "province_id": "72",
+            "tenant_key": "0512",
+            "tenant_value": "Tân Châu"
+        },
+        {
+            "jnx_key": "703",
+            "jnx_value": "Tây Ninh",
+            "province_id": "72",
+            "tenant_key": "0532",
+            "tenant_value": "Tây Ninh"
+        },
+        {
+            "jnx_key": "712",
+            "jnx_value": "Trảng Bàng",
+            "province_id": "72",
+            "tenant_key": "0595",
+            "tenant_value": "Trảng Bàng"
+        }
+    ],
+    "80": [
+        {
+            "jnx_key": "803",
+            "jnx_value": "Bến Lức",
+            "province_id": "80",
+            "tenant_key": "0044",
+            "tenant_value": "Bến Lức"
+        },
+        {
+            "jnx_key": "806",
+            "jnx_value": "Cần Đước",
+            "province_id": "80",
+            "tenant_key": "0090",
+            "tenant_value": "Cần Đước"
+        },
+        {
+            "jnx_key": "807",
+            "jnx_value": "Cần Giuộc",
+            "province_id": "80",
+            "tenant_key": "0092",
+            "tenant_value": "Cần Giuộc"
+        },
+        {
+            "jnx_key": "808",
+            "jnx_value": "Châu Thành",
+            "province_id": "80",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "802",
+            "jnx_value": "Đức Hòa",
+            "province_id": "80",
+            "tenant_key": "0191",
+            "tenant_value": "Đức Hòa"
+        },
+        {
+            "jnx_key": "801",
+            "jnx_value": "Đức Huệ",
+            "province_id": "80",
+            "tenant_key": "0192",
+            "tenant_value": "Đức Huệ"
+        },
+        {
+            "jnx_key": "795",
+            "jnx_value": "Kiến Tường",
+            "province_id": "80",
+            "tenant_key": "0720",
+            "tenant_value": "Kiến Tường"
+        },
+        {
+            "jnx_key": "798",
+            "jnx_value": "Mộc Hóa",
+            "province_id": "80",
+            "tenant_key": "0352",
+            "tenant_value": "Mộc Hóa"
+        },
+        {
+            "jnx_key": "794",
+            "jnx_value": "Tân An",
+            "province_id": "80",
+            "tenant_key": "0509",
+            "tenant_value": "Tân An"
+        },
+        {
+            "jnx_key": "796",
+            "jnx_value": "Tân Hưng",
+            "province_id": "80",
+            "tenant_key": "0517",
+            "tenant_value": "Tân Hưng"
+        },
+        {
+            "jnx_key": "799",
+            "jnx_value": "Tân Thạnh",
+            "province_id": "80",
+            "tenant_key": "0524",
+            "tenant_value": "Tân Thành"
+        },
+        {
+            "jnx_key": "805",
+            "jnx_value": "Tân Trụ",
+            "province_id": "80",
+            "tenant_key": "0526",
+            "tenant_value": "Tân Trụ"
+        },
+        {
+            "jnx_key": "800",
+            "jnx_value": "Thạnh Hóa",
+            "province_id": "80",
+            "tenant_key": "0548",
+            "tenant_value": "Thanh Hóa"
+        },
+        {
+            "jnx_key": "804",
+            "jnx_value": "Thủ Thừa",
+            "province_id": "80",
+            "tenant_key": "0571",
+            "tenant_value": "Thủ Thừa"
+        },
+        {
+            "jnx_key": "797",
+            "jnx_value": "Vĩnh Hưng",
+            "province_id": "80",
+            "tenant_key": "0643",
+            "tenant_value": "Vĩnh Hưng"
+        }
+    ],
+    "75": [
+        {
+            "jnx_key": "731",
+            "jnx_value": "Biên Hòa",
+            "province_id": "75",
+            "tenant_key": "0046",
+            "tenant_value": "Biên Hòa"
+        },
+        {
+            "jnx_key": "739",
+            "jnx_value": "Cẩm Mỹ",
+            "province_id": "75",
+            "tenant_key": "0086",
+            "tenant_value": "Cẩm Mỹ"
+        },
+        {
+            "jnx_key": "736",
+            "jnx_value": "Định Quán",
+            "province_id": "75",
+            "tenant_key": "0170",
+            "tenant_value": "Định Quán"
+        },
+        {
+            "jnx_key": "732",
+            "jnx_value": "Long Khánh",
+            "province_id": "75",
+            "tenant_key": "0323",
+            "tenant_value": "Long Khánh"
+        },
+        {
+            "jnx_key": "740",
+            "jnx_value": "Long Thành",
+            "province_id": "75",
+            "tenant_key": "0326",
+            "tenant_value": "Long Thành"
+        },
+        {
+            "jnx_key": "742",
+            "jnx_value": "Nhơn Trạch",
+            "province_id": "75",
+            "tenant_key": "0395",
+            "tenant_value": "Nhơn Trạch"
+        },
+        {
+            "jnx_key": "734",
+            "jnx_value": "Tân Phú",
+            "province_id": "75",
+            "tenant_key": "0520",
+            "tenant_value": "Tân Phú"
+        },
+        {
+            "jnx_key": "738",
+            "jnx_value": "Thống Nhất",
+            "province_id": "75",
+            "tenant_key": "0566",
+            "tenant_value": "Thống Nhất"
+        },
+        {
+            "jnx_key": "737",
+            "jnx_value": "Trảng Bom",
+            "province_id": "75",
+            "tenant_key": "0596",
+            "tenant_value": "Trảng Bom"
+        },
+        {
+            "jnx_key": "735",
+            "jnx_value": "Vĩnh Cửu",
+            "province_id": "75",
+            "tenant_key": "0642",
+            "tenant_value": "Vĩnh Cửu"
+        },
+        {
+            "jnx_key": "741",
+            "jnx_value": "Xuân Lộc",
+            "province_id": "75",
+            "tenant_key": "0660",
+            "tenant_value": "Xuân Lộc"
+        }
+    ],
+    "30": [
+        {
+            "jnx_key": "296",
+            "jnx_value": "Bình Giang",
+            "province_id": "30",
+            "tenant_key": "0051",
+            "tenant_value": "Bình Giang"
+        },
+        {
+            "jnx_key": "295",
+            "jnx_value": "Cẩm Giàng",
+            "province_id": "30",
+            "tenant_key": "0084",
+            "tenant_value": "Cẩm Giàng"
+        },
+        {
+            "jnx_key": "290",
+            "jnx_value": "Chí Linh",
+            "province_id": "30",
+            "tenant_key": "0110",
+            "tenant_value": "Chí Linh"
+        },
+        {
+            "jnx_key": "297",
+            "jnx_value": "Gia Lộc",
+            "province_id": "30",
+            "tenant_key": "0202",
+            "tenant_value": "Gia Lộc"
+        },
+        {
+            "jnx_key": "288",
+            "jnx_value": "Hải Dương",
+            "province_id": "30",
+            "tenant_key": "0227",
+            "tenant_value": "Hải Dương"
+        },
+        {
+            "jnx_key": "293",
+            "jnx_value": "Kim Thành",
+            "province_id": "30",
+            "tenant_key": "0286",
+            "tenant_value": "Kim Thành"
+        },
+        {
+            "jnx_key": "292",
+            "jnx_value": "Kinh Môn",
+            "province_id": "30",
+            "tenant_key": "0287",
+            "tenant_value": "Kinh Môn"
+        },
+        {
+            "jnx_key": "291",
+            "jnx_value": "Nam Sách",
+            "province_id": "30",
+            "tenant_key": "0373",
+            "tenant_value": "Nam Sách"
+        },
+        {
+            "jnx_key": "299",
+            "jnx_value": "Ninh Giang",
+            "province_id": "30",
+            "tenant_key": "0399",
+            "tenant_value": "Ninh Giang"
+        },
+        {
+            "jnx_key": "294",
+            "jnx_value": "Thanh Hà",
+            "province_id": "30",
+            "tenant_key": "0547",
+            "tenant_value": "Thanh Hà"
+        },
+        {
+            "jnx_key": "300",
+            "jnx_value": "Thanh Miện",
+            "province_id": "30",
+            "tenant_key": "0551",
+            "tenant_value": "Thanh Miện"
+        },
+        {
+            "jnx_key": "298",
+            "jnx_value": "Tứ Kỳ",
+            "province_id": "30",
+            "tenant_key": "0616",
+            "tenant_value": "Tứ Kỳ"
+        }
+    ],
+    "70": [
+        {
+            "jnx_key": "690",
+            "jnx_value": "Bình Long",
+            "province_id": "70",
+            "tenant_key": "0053",
+            "tenant_value": "Bình Long"
+        },
+        {
+            "jnx_key": "696",
+            "jnx_value": "Bù Đăng",
+            "province_id": "70",
+            "tenant_key": "0063",
+            "tenant_value": "Bù Đăng"
+        },
+        {
+            "jnx_key": "693",
+            "jnx_value": "Bù Đốp",
+            "province_id": "70",
+            "tenant_key": "0064",
+            "tenant_value": "Bù Đốp"
+        },
+        {
+            "jnx_key": "691",
+            "jnx_value": "Bù Gia Mập",
+            "province_id": "70",
+            "tenant_key": "691",
+            "tenant_value": "Bù Gia Mập"
+        },
+        {
+            "jnx_key": "697",
+            "jnx_value": "Chơn Thành",
+            "province_id": "70",
+            "tenant_key": "0117",
+            "tenant_value": "Chơn Thành"
+        },
+        {
+            "jnx_key": "695",
+            "jnx_value": "Đồng Phú",
+            "province_id": "70",
+            "tenant_key": "0184",
+            "tenant_value": "Đồng Phú"
+        },
+        {
+            "jnx_key": "689",
+            "jnx_value": "Đồng Xoài",
+            "province_id": "70",
+            "tenant_key": "0186",
+            "tenant_value": "Đồng Xoài"
+        },
+        {
+            "jnx_key": "694",
+            "jnx_value": "Hớn Quản",
+            "province_id": "70",
+            "tenant_key": "0694",
+            "tenant_value": "Hớn Quản"
+        },
+        {
+            "jnx_key": "692",
+            "jnx_value": "Lộc Ninh",
+            "province_id": "70",
+            "tenant_key": "0330",
+            "tenant_value": "Lộc Ninh"
+        },
+        {
+            "jnx_key": "698",
+            "jnx_value": "Phú Riềng",
+            "province_id": "70",
+            "tenant_key": "0730",
+            "tenant_value": "Phú Riềng"
+        },
+        {
+            "jnx_key": "688",
+            "jnx_value": "Phước Long",
+            "province_id": "70",
+            "tenant_key": "0440",
+            "tenant_value": "Phước Long"
+        }
+    ],
+    "35": [
+        {
+            "jnx_key": "352",
+            "jnx_value": "Bình Lục",
+            "province_id": "35",
+            "tenant_key": "0054",
+            "tenant_value": "Bình Lục"
+        },
+        {
+            "jnx_key": "349",
+            "jnx_value": "Duy Tiên",
+            "province_id": "35",
+            "tenant_key": "0138",
+            "tenant_value": "Duy Tiên"
+        },
+        {
+            "jnx_key": "350",
+            "jnx_value": "Kim Bảng",
+            "province_id": "35",
+            "tenant_key": "0282",
+            "tenant_value": "Kim Bảng"
+        },
+        {
+            "jnx_key": "353",
+            "jnx_value": "Lý Nhân",
+            "province_id": "35",
+            "tenant_key": "0336",
+            "tenant_value": "Lý Nhân"
+        },
+        {
+            "jnx_key": "347",
+            "jnx_value": "Phủ Lý",
+            "province_id": "35",
+            "tenant_key": "0435",
+            "tenant_value": "Phủ Lý"
+        },
+        {
+            "jnx_key": "351",
+            "jnx_value": "Thanh Liêm",
+            "province_id": "35",
+            "tenant_key": "0550",
+            "tenant_value": "Thanh Liêm"
+        }
+    ],
+    "86": [
+        {
+            "jnx_key": "861",
+            "jnx_value": "Bình Minh",
+            "province_id": "86",
+            "tenant_key": "0055",
+            "tenant_value": "Bình Minh"
+        },
+        {
+            "jnx_key": "863",
+            "jnx_value": "Bình Tân",
+            "province_id": "86",
+            "tenant_key": "0057",
+            "tenant_value": "Bình Tân"
+        },
+        {
+            "jnx_key": "857",
+            "jnx_value": "Long Hồ",
+            "province_id": "86",
+            "tenant_key": "0322",
+            "tenant_value": "Long Hồ"
+        },
+        {
+            "jnx_key": "858",
+            "jnx_value": "Mang Thít",
+            "province_id": "86",
+            "tenant_key": "0340",
+            "tenant_value": "Mang Thít"
+        },
+        {
+            "jnx_key": "860",
+            "jnx_value": "Tam Bình",
+            "province_id": "86",
+            "tenant_key": "0501",
+            "tenant_value": "Tam Bình"
+        },
+        {
+            "jnx_key": "862",
+            "jnx_value": "Trà Ôn",
+            "province_id": "86",
+            "tenant_key": "0591",
+            "tenant_value": "Trà Ôn"
+        },
+        {
+            "jnx_key": "855",
+            "jnx_value": "Vĩnh Long",
+            "province_id": "86",
+            "tenant_key": "0645",
+            "tenant_value": "Vĩnh Long"
+        }
+    ],
+    "92": [
+        {
+            "jnx_key": "918",
+            "jnx_value": "Bình Thuỷ",
+            "province_id": "92",
+            "tenant_key": "0060",
+            "tenant_value": "Bình Thuỷ"
+        },
+        {
+            "jnx_key": "919",
+            "jnx_value": "Cái Răng",
+            "province_id": "92",
+            "tenant_key": "0071",
+            "tenant_value": "Cái Răng"
+        },
+        {
+            "jnx_key": "925",
+            "jnx_value": "Cờ Đỏ",
+            "province_id": "92",
+            "tenant_key": "0126",
+            "tenant_value": "Cờ Đỏ"
+        },
+        {
+            "jnx_key": "916",
+            "jnx_value": "Ninh Kiều",
+            "province_id": "92",
+            "tenant_key": "0402",
+            "tenant_value": "Ninh Kiều"
+        },
+        {
+            "jnx_key": "917",
+            "jnx_value": "Ô Môn",
+            "province_id": "92",
+            "tenant_key": "0407",
+            "tenant_value": "Ô Môn"
+        },
+        {
+            "jnx_key": "926",
+            "jnx_value": "Phong Điền",
+            "province_id": "92",
+            "tenant_key": "0411",
+            "tenant_value": "Phong Điền"
+        },
+        {
+            "jnx_key": "927",
+            "jnx_value": "Thới Lai",
+            "province_id": "92",
+            "tenant_key": "0691",
+            "tenant_value": "Thới Lai"
+        },
+        {
+            "jnx_key": "923",
+            "jnx_value": "Thốt Nốt",
+            "province_id": "92",
+            "tenant_key": "0567",
+            "tenant_value": "Thốt Nốt"
+        },
+        {
+            "jnx_key": "924",
+            "jnx_value": "Vĩnh Thạnh",
+            "province_id": "92",
+            "tenant_key": "0648",
+            "tenant_value": "Vĩnh Thạnh"
+        }
+    ],
+    "26": [
+        {
+            "jnx_key": "249",
+            "jnx_value": "Bình Xuyên",
+            "province_id": "26",
+            "tenant_key": "0061",
+            "tenant_value": "Bình Xuyên"
+        },
+        {
+            "jnx_key": "246",
+            "jnx_value": "Lập Thạch",
+            "province_id": "26",
+            "tenant_key": "0316",
+            "tenant_value": "Lập Thạch"
+        },
+        {
+            "jnx_key": "244",
+            "jnx_value": "Phúc Yên",
+            "province_id": "26",
+            "tenant_key": "0437",
+            "tenant_value": "Phúc Yên"
+        },
+        {
+            "jnx_key": "253",
+            "jnx_value": "Sông Lô",
+            "province_id": "26",
+            "tenant_key": "0461",
+            "tenant_value": "Sông Lô"
+        },
+        {
+            "jnx_key": "247",
+            "jnx_value": "Tam Dương",
+            "province_id": "26",
+            "tenant_key": "0502",
+            "tenant_value": "Tam Dương"
+        },
+        {
+            "jnx_key": "248",
+            "jnx_value": "Tam Đảo",
+            "province_id": "26",
+            "tenant_key": "0684",
+            "tenant_value": "Tam Đảo"
+        },
+        {
+            "jnx_key": "252",
+            "jnx_value": "Vĩnh Tường",
+            "province_id": "26",
+            "tenant_key": "0651",
+            "tenant_value": "Vĩnh Tường"
+        },
+        {
+            "jnx_key": "243",
+            "jnx_value": "Vĩnh Yên",
+            "province_id": "26",
+            "tenant_key": "0652",
+            "tenant_value": "Vĩnh Yên"
+        },
+        {
+            "jnx_key": "251",
+            "jnx_value": "Yên Lạc",
+            "province_id": "26",
+            "tenant_key": "0671",
+            "tenant_value": "Yên Lạc"
+        }
+    ],
+    "66": [
+        {
+            "jnx_key": "647",
+            "jnx_value": "Buôn Đôn",
+            "province_id": "66",
+            "tenant_key": "0065",
+            "tenant_value": "Buôn Đôn"
+        },
+        {
+            "jnx_key": "644",
+            "jnx_value": "Buôn Hồ",
+            "province_id": "66",
+            "tenant_key": "0690",
+            "tenant_value": "Buôn Hồ"
+        },
+        {
+            "jnx_key": "643",
+            "jnx_value": "Buôn Ma Thuột",
+            "province_id": "66",
+            "tenant_key": "0066",
+            "tenant_value": "Buôn Ma Thuột"
+        },
+        {
+            "jnx_key": "657",
+            "jnx_value": "Cư Kuin",
+            "province_id": "66",
+            "tenant_key": "0129",
+            "tenant_value": "Cư Kuin"
+        },
+        {
+            "jnx_key": "648",
+            "jnx_value": "Cư M'gar",
+            "province_id": "66",
+            "tenant_key": "0197",
+            "tenant_value": "Cư M'gar"
+        },
+        {
+            "jnx_key": "645",
+            "jnx_value": "Ea H'leo",
+            "province_id": "66",
+            "tenant_key": "0258",
+            "tenant_value": "Ea H'leo"
+        },
+        {
+            "jnx_key": "651",
+            "jnx_value": "Ea Kar",
+            "province_id": "66",
+            "tenant_key": "0199",
+            "tenant_value": "Ea Kar"
+        },
+        {
+            "jnx_key": "646",
+            "jnx_value": "Ea Súp",
+            "province_id": "66",
+            "tenant_key": "0701",
+            "tenant_value": "Ea Súp"
+        },
+        {
+            "jnx_key": "655",
+            "jnx_value": "Krông A Na",
+            "province_id": "66",
+            "tenant_key": "0292",
+            "tenant_value": "Krông A Na"
+        },
+        {
+            "jnx_key": "653",
+            "jnx_value": "Krông Bông",
+            "province_id": "66",
+            "tenant_key": "0293",
+            "tenant_value": "Krông Bông"
+        },
+        {
+            "jnx_key": "649",
+            "jnx_value": "Krông Búk",
+            "province_id": "66",
+            "tenant_key": "0294",
+            "tenant_value": "Krông Búk"
+        },
+        {
+            "jnx_key": "650",
+            "jnx_value": "Krông Năng",
+            "province_id": "66",
+            "tenant_key": "0295",
+            "tenant_value": "Krông Năng"
+        },
+        {
+            "jnx_key": "654",
+            "jnx_value": "Krông Pắc",
+            "province_id": "66",
+            "tenant_key": "0298",
+            "tenant_value": "Krông Pắc"
+        },
+        {
+            "jnx_key": "656",
+            "jnx_value": "Lắk",
+            "province_id": "66",
+            "tenant_key": "0312",
+            "tenant_value": "Lắk"
+        }
+    ],
+    "96": [
+        {
+            "jnx_key": "964",
+            "jnx_value": "Cà Mau",
+            "province_id": "96",
+            "tenant_key": "0067",
+            "tenant_value": "Cà Mau"
+        },
+        {
+            "jnx_key": "969",
+            "jnx_value": "Cái Nước",
+            "province_id": "96",
+            "tenant_key": "0070",
+            "tenant_value": "Cái Nước"
+        },
+        {
+            "jnx_key": "970",
+            "jnx_value": "Đầm Dơi",
+            "province_id": "96",
+            "tenant_key": "0160",
+            "tenant_value": "Đầm Dơi"
+        },
+        {
+            "jnx_key": "971",
+            "jnx_value": "Năm Căn",
+            "province_id": "96",
+            "tenant_key": "0376",
+            "tenant_value": "Năm Căn"
+        },
+        {
+            "jnx_key": "973",
+            "jnx_value": "Ngọc Hiển",
+            "province_id": "96",
+            "tenant_key": "0386",
+            "tenant_value": "Ngọc Hiển"
+        },
+        {
+            "jnx_key": "972",
+            "jnx_value": "Phú Tân",
+            "province_id": "96",
+            "tenant_key": "0424",
+            "tenant_value": "Phú Tân"
+        },
+        {
+            "jnx_key": "967",
+            "jnx_value": "Thới Bình",
+            "province_id": "96",
+            "tenant_key": "0568",
+            "tenant_value": "Thới Bình"
+        },
+        {
+            "jnx_key": "968",
+            "jnx_value": "Trần Văn Thời",
+            "province_id": "96",
+            "tenant_key": "0598",
+            "tenant_value": "Trần Văn Thời"
+        },
+        {
+            "jnx_key": "966",
+            "jnx_value": "U Minh",
+            "province_id": "96",
+            "tenant_key": "0620",
+            "tenant_value": "U Minh"
+        }
+    ],
+    "82": [
+        {
+            "jnx_key": "819",
+            "jnx_value": "Cái Bè",
+            "province_id": "82",
+            "tenant_key": "0069",
+            "tenant_value": "Cái Bè"
+        },
+        {
+            "jnx_key": "821",
+            "jnx_value": "Châu Thành",
+            "province_id": "82",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "822",
+            "jnx_value": "Chợ Gạo",
+            "province_id": "82",
+            "tenant_key": "0113",
+            "tenant_value": "Chợ Gạo"
+        },
+        {
+            "jnx_key": "816",
+            "jnx_value": "Gò Công",
+            "province_id": "82",
+            "tenant_key": "0210",
+            "tenant_value": "Gò Công"
+        },
+        {
+            "jnx_key": "824",
+            "jnx_value": "Gò Công Đông",
+            "province_id": "82",
+            "tenant_key": "0211",
+            "tenant_value": "Gò Công Đông"
+        },
+        {
+            "jnx_key": "823",
+            "jnx_value": "Gò Công Tây",
+            "province_id": "82",
+            "tenant_key": "0212",
+            "tenant_value": "Gò Công Tây"
+        },
+        {
+            "jnx_key": "815",
+            "jnx_value": "Mỹ Tho",
+            "province_id": "82",
+            "tenant_key": "0364",
+            "tenant_value": "Mỹ Tho"
+        },
+        {
+            "jnx_key": "825",
+            "jnx_value": "Tân Phú Đông",
+            "province_id": "82",
+            "tenant_key": "0521",
+            "tenant_value": "Tân Phú Đông"
+        },
+        {
+            "jnx_key": "818",
+            "jnx_value": "Tân Phước",
+            "province_id": "82",
+            "tenant_key": "0522",
+            "tenant_value": "Tân Phước"
+        }
+    ],
+    "25": [
+        {
+            "jnx_key": "235",
+            "jnx_value": "Cẩm Khê",
+            "province_id": "25",
+            "tenant_key": "0682",
+            "tenant_value": "Cẩm Khê"
+        },
+        {
+            "jnx_key": "230",
+            "jnx_value": "Đoan Hùng",
+            "province_id": "25",
+            "tenant_key": "0171",
+            "tenant_value": "Đoan Hùng"
+        },
+        {
+            "jnx_key": "231",
+            "jnx_value": "Hạ Hoà",
+            "province_id": "25",
+            "tenant_key": "0222",
+            "tenant_value": "Hạ Hoà"
+        },
+        {
+            "jnx_key": "237",
+            "jnx_value": "Lâm Thao",
+            "province_id": "25",
+            "tenant_key": "0314",
+            "tenant_value": "Lâm Thao"
+        },
+        {
+            "jnx_key": "233",
+            "jnx_value": "Phù Ninh",
+            "province_id": "25",
+            "tenant_key": "0421",
+            "tenant_value": "Phú Ninh"
+        },
+        {
+            "jnx_key": "228",
+            "jnx_value": "Phú Thọ",
+            "province_id": "25",
+            "tenant_key": "0427",
+            "tenant_value": "Phú Thọ"
+        },
+        {
+            "jnx_key": "236",
+            "jnx_value": "Tam Nông",
+            "province_id": "25",
+            "tenant_key": "0506",
+            "tenant_value": "Tam Nông"
+        },
+        {
+            "jnx_key": "240",
+            "jnx_value": "Tân Sơn",
+            "province_id": "25",
+            "tenant_key": "0523",
+            "tenant_value": "Tân Sơn"
+        },
+        {
+            "jnx_key": "232",
+            "jnx_value": "Thanh Ba",
+            "province_id": "25",
+            "tenant_key": "0544",
+            "tenant_value": "Thanh Ba"
+        },
+        {
+            "jnx_key": "238",
+            "jnx_value": "Thanh Sơn",
+            "province_id": "25",
+            "tenant_key": "0553",
+            "tenant_value": "Thanh Sơn"
+        },
+        {
+            "jnx_key": "239",
+            "jnx_value": "Thanh Thuỷ",
+            "province_id": "25",
+            "tenant_key": "0554",
+            "tenant_value": "Thanh Thuỷ"
+        },
+        {
+            "jnx_key": "227",
+            "jnx_value": "Việt Trì",
+            "province_id": "25",
+            "tenant_key": "0637",
+            "tenant_value": "Việt Trì"
+        },
+        {
+            "jnx_key": "234",
+            "jnx_value": "Yên Lập",
+            "province_id": "25",
+            "tenant_key": "0672",
+            "tenant_value": "Yên Lập"
+        }
+    ],
+    "56": [
+        {
+            "jnx_key": "570",
+            "jnx_value": "Cam Lâm",
+            "province_id": "56",
+            "tenant_key": "0072",
+            "tenant_value": "Cam Lâm"
+        },
+        {
+            "jnx_key": "569",
+            "jnx_value": "Cam Ranh",
+            "province_id": "56",
+            "tenant_key": "0074",
+            "tenant_value": "Cam Ranh"
+        },
+        {
+            "jnx_key": "574",
+            "jnx_value": "Diên Khánh",
+            "province_id": "56",
+            "tenant_key": "0136",
+            "tenant_value": "Diên Khánh"
+        },
+        {
+            "jnx_key": "575",
+            "jnx_value": "Khánh Sơn",
+            "province_id": "56",
+            "tenant_key": "0274",
+            "tenant_value": "Khánh Sơn"
+        },
+        {
+            "jnx_key": "573",
+            "jnx_value": "Khánh Vĩnh",
+            "province_id": "56",
+            "tenant_key": "0275",
+            "tenant_value": "Khánh Vĩnh"
+        },
+        {
+            "jnx_key": "568",
+            "jnx_value": "Nha Trang",
+            "province_id": "56",
+            "tenant_key": "0392",
+            "tenant_value": "Nha Trang"
+        },
+        {
+            "jnx_key": "572",
+            "jnx_value": "Ninh Hòa",
+            "province_id": "56",
+            "tenant_key": "0401",
+            "tenant_value": "Ninh Hòa"
+        },
+        {
+            "jnx_key": "576",
+            "jnx_value": "Trường Sa",
+            "province_id": "56",
+            "tenant_key": "0604",
+            "tenant_value": "Trường Sa"
+        },
+        {
+            "jnx_key": "571",
+            "jnx_value": "Vạn Ninh",
+            "province_id": "56",
+            "tenant_key": "0624",
+            "tenant_value": "Vạn Ninh"
+        }
+    ],
+    "48": [
+        {
+            "jnx_key": "495",
+            "jnx_value": "Cẩm Lệ",
+            "province_id": "48",
+            "tenant_key": "0085",
+            "tenant_value": "Cẩm Lệ"
+        },
+        {
+            "jnx_key": "492",
+            "jnx_value": "Hải Châu",
+            "province_id": "48",
+            "tenant_key": "0226",
+            "tenant_value": "Hải Châu"
+        },
+        {
+            "jnx_key": "497",
+            "jnx_value": "Hòa Vang",
+            "province_id": "48",
+            "tenant_key": "0242",
+            "tenant_value": "Hoà Vang"
+        },
+        {
+            "jnx_key": "490",
+            "jnx_value": "Liên Chiểu",
+            "province_id": "48",
+            "tenant_key": "0319",
+            "tenant_value": "Liên Chiểu"
+        },
+        {
+            "jnx_key": "494",
+            "jnx_value": "Ngũ Hành Sơn",
+            "province_id": "48",
+            "tenant_key": "0390",
+            "tenant_value": "Ngũ Hành Sơn"
+        },
+        {
+            "jnx_key": "493",
+            "jnx_value": "Sơn Trà",
+            "province_id": "48",
+            "tenant_key": "0500",
+            "tenant_value": "Sơn Trà"
+        },
+        {
+            "jnx_key": "491",
+            "jnx_value": "Thanh Khê",
+            "province_id": "48",
+            "tenant_key": "0549",
+            "tenant_value": "Thanh Khê"
+        }
+    ],
+    "45": [
+        {
+            "jnx_key": "468",
+            "jnx_value": "Cam Lộ",
+            "province_id": "45",
+            "tenant_key": "0073",
+            "tenant_value": "Cam Lộ"
+        },
+        {
+            "jnx_key": "467",
+            "jnx_value": "Đa Krông",
+            "province_id": "45",
+            "tenant_key": "0143",
+            "tenant_value": "Đa Krông"
+        },
+        {
+            "jnx_key": "461",
+            "jnx_value": "Đông Hà",
+            "province_id": "45",
+            "tenant_key": "0176",
+            "tenant_value": "Đông Hà"
+        },
+        {
+            "jnx_key": "466",
+            "jnx_value": "Gio Linh",
+            "province_id": "45",
+            "tenant_key": "0207",
+            "tenant_value": "Gio Linh"
+        },
+        {
+            "jnx_key": "470",
+            "jnx_value": "Hải Lăng",
+            "province_id": "45",
+            "tenant_key": "0229",
+            "tenant_value": "Hải Lăng"
+        },
+        {
+            "jnx_key": "465",
+            "jnx_value": "Hướng Hóa",
+            "province_id": "45",
+            "tenant_key": "0268",
+            "tenant_value": "Hướng Hóa"
+        },
+        {
+            "jnx_key": "462",
+            "jnx_value": "Quảng Trị",
+            "province_id": "45",
+            "tenant_key": "0465",
+            "tenant_value": "Quảng Trị"
+        },
+        {
+            "jnx_key": "469",
+            "jnx_value": "Triệu Phong",
+            "province_id": "45",
+            "tenant_key": "0600",
+            "tenant_value": "Triệu Phong"
+        },
+        {
+            "jnx_key": "464",
+            "jnx_value": "Vĩnh Linh",
+            "province_id": "45",
+            "tenant_key": "0644",
+            "tenant_value": "Vĩnh Linh"
+        }
+    ],
+    "42": [
+        {
+            "jnx_key": "446",
+            "jnx_value": "Cẩm Xuyên",
+            "province_id": "42",
+            "tenant_key": "0089",
+            "tenant_value": "Cẩm Xuyên"
+        },
+        {
+            "jnx_key": "443",
+            "jnx_value": "Can Lộc",
+            "province_id": "42",
+            "tenant_key": "0075",
+            "tenant_value": "Can Lộc"
+        },
+        {
+            "jnx_key": "440",
+            "jnx_value": "Đức Thọ",
+            "province_id": "42",
+            "tenant_key": "0195",
+            "tenant_value": "Đức Thọ"
+        },
+        {
+            "jnx_key": "436",
+            "jnx_value": "Hà Tĩnh",
+            "province_id": "42",
+            "tenant_key": "0220",
+            "tenant_value": "Hà Tĩnh"
+        },
+        {
+            "jnx_key": "437",
+            "jnx_value": "Hồng Lĩnh",
+            "province_id": "42",
+            "tenant_key": "0257",
+            "tenant_value": "Hồng Lĩnh"
+        },
+        {
+            "jnx_key": "444",
+            "jnx_value": "Hương Khê",
+            "province_id": "42",
+            "tenant_key": "0264",
+            "tenant_value": "Hương Khê"
+        },
+        {
+            "jnx_key": "439",
+            "jnx_value": "Hương Sơn",
+            "province_id": "42",
+            "tenant_key": "0265",
+            "tenant_value": "Hương Sơn"
+        },
+        {
+            "jnx_key": "449",
+            "jnx_value": "Kỳ Anh",
+            "province_id": "42",
+            "tenant_key": "0299",
+            "tenant_value": "Kỳ Anh"
+        },
+        {
+            "jnx_key": "448",
+            "jnx_value": "Lộc Hà",
+            "province_id": "42",
+            "tenant_key": "0329",
+            "tenant_value": "Lộc Hà"
+        },
+        {
+            "jnx_key": "442",
+            "jnx_value": "Nghi Xuân",
+            "province_id": "42",
+            "tenant_key": "0381",
+            "tenant_value": "Nghi Xuân"
+        },
+        {
+            "jnx_key": "445",
+            "jnx_value": "Thạch Hà",
+            "province_id": "42",
+            "tenant_key": "0536",
+            "tenant_value": "Thạch Hà"
+        },
+        {
+            "jnx_key": "441",
+            "jnx_value": "Vũ Quang",
+            "province_id": "42",
+            "tenant_key": "0654",
+            "tenant_value": "Vũ Quang"
+        }
+    ],
+    "84": [
+        {
+            "jnx_key": "844",
+            "jnx_value": "Càng Long",
+            "province_id": "84",
+            "tenant_key": "0076",
+            "tenant_value": "Càng Long"
+        },
+        {
+            "jnx_key": "845",
+            "jnx_value": "Cầu Kè",
+            "province_id": "84",
+            "tenant_key": "0094",
+            "tenant_value": "Cầu Kè"
+        },
+        {
+            "jnx_key": "848",
+            "jnx_value": "Cầu Ngang",
+            "province_id": "84",
+            "tenant_key": "0095",
+            "tenant_value": "Cầu Ngang"
+        },
+        {
+            "jnx_key": "847",
+            "jnx_value": "Châu Thành",
+            "province_id": "84",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "846",
+            "jnx_value": "Tiểu Cần",
+            "province_id": "84",
+            "tenant_key": "0585",
+            "tenant_value": "Tiểu Cần"
+        },
+        {
+            "jnx_key": "849",
+            "jnx_value": "Trà Cú",
+            "province_id": "84",
+            "tenant_key": "0589",
+            "tenant_value": "Trà Cú"
+        },
+        {
+            "jnx_key": "842",
+            "jnx_value": "Trà Vinh",
+            "province_id": "84",
+            "tenant_key": "0592",
+            "tenant_value": "Trà Vinh"
+        }
+    ],
+    "17": [
+        {
+            "jnx_key": "154",
+            "jnx_value": "Cao Phong",
+            "province_id": "17",
+            "tenant_key": "0081",
+            "tenant_value": "Cao Phong"
+        },
+        {
+            "jnx_key": "150",
+            "jnx_value": "Đà Bắc",
+            "province_id": "17",
+            "tenant_key": "0144",
+            "tenant_value": "Đà Bắc"
+        },
+        {
+            "jnx_key": "148",
+            "jnx_value": "Hòa Bình",
+            "province_id": "17",
+            "tenant_key": "0240",
+            "tenant_value": "Hòa Bình"
+        },
+        {
+            "jnx_key": "153",
+            "jnx_value": "Kim Bôi",
+            "province_id": "17",
+            "tenant_key": "0283",
+            "tenant_value": "Kim Bôi"
+        },
+        {
+            "jnx_key": "151",
+            "jnx_value": "Kỳ Sơn",
+            "province_id": "17",
+            "tenant_key": "0300",
+            "tenant_value": "Kỳ Sơn"
+        },
+        {
+            "jnx_key": "157",
+            "jnx_value": "Lạc Sơn",
+            "province_id": "17",
+            "tenant_key": "0304",
+            "tenant_value": "Lạc Sơn"
+        },
+        {
+            "jnx_key": "159",
+            "jnx_value": "Lạc Thủy",
+            "province_id": "17",
+            "tenant_key": "0305",
+            "tenant_value": "Lạc Thủy"
+        },
+        {
+            "jnx_key": "152",
+            "jnx_value": "Lương Sơn",
+            "province_id": "17",
+            "tenant_key": "0334",
+            "tenant_value": "Lương Sơn"
+        },
+        {
+            "jnx_key": "156",
+            "jnx_value": "Mai Châu",
+            "province_id": "17",
+            "tenant_key": "0338",
+            "tenant_value": "Mai Châu"
+        },
+        {
+            "jnx_key": "155",
+            "jnx_value": "Tân Lạc",
+            "province_id": "17",
+            "tenant_key": "0519",
+            "tenant_value": "Tân Lạc"
+        },
+        {
+            "jnx_key": "158",
+            "jnx_value": "Yên Thủy",
+            "province_id": "17",
+            "tenant_key": "0680",
+            "tenant_value": "Yên Thủy"
+        }
+    ],
+    "93": [
+        {
+            "jnx_key": "933",
+            "jnx_value": "Châu Thành",
+            "province_id": "93",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "932",
+            "jnx_value": "Châu Thành A",
+            "province_id": "93",
+            "tenant_key": "0108",
+            "tenant_value": "Châu Thành A"
+        },
+        {
+            "jnx_key": "937",
+            "jnx_value": "Long Mỹ",
+            "province_id": "93",
+            "tenant_key": "0324",
+            "tenant_value": "Long Mỹ"
+        },
+        {
+            "jnx_key": "931",
+            "jnx_value": "Ngã Bảy",
+            "province_id": "93",
+            "tenant_key": "0515",
+            "tenant_value": "Ngã Bảy"
+        },
+        {
+            "jnx_key": "934",
+            "jnx_value": "Phụng Hiệp",
+            "province_id": "93",
+            "tenant_key": "0439",
+            "tenant_value": "Phụng Hiệp"
+        },
+        {
+            "jnx_key": "930",
+            "jnx_value": "Vị Thanh",
+            "province_id": "93",
+            "tenant_key": "0634",
+            "tenant_value": "Vị Thanh"
+        },
+        {
+            "jnx_key": "935",
+            "jnx_value": "Vị Thuỷ",
+            "province_id": "93",
+            "tenant_key": "0635",
+            "tenant_value": "Vị Thuỷ"
+        }
+    ],
+    "94": [
+        {
+            "jnx_key": "942",
+            "jnx_value": "Châu Thành",
+            "province_id": "94",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "945",
+            "jnx_value": "Cù Lao Dung",
+            "province_id": "94",
+            "tenant_key": "0127",
+            "tenant_value": "Cù Lao Dung"
+        },
+        {
+            "jnx_key": "943",
+            "jnx_value": "Kế Sách",
+            "province_id": "94",
+            "tenant_key": "0273",
+            "tenant_value": "Kế Sách"
+        },
+        {
+            "jnx_key": "946",
+            "jnx_value": "Long Phú",
+            "province_id": "94",
+            "tenant_key": "0325",
+            "tenant_value": "Long Phú"
+        },
+        {
+            "jnx_key": "944",
+            "jnx_value": "Mỹ Tú",
+            "province_id": "94",
+            "tenant_key": "0365",
+            "tenant_value": "Mỹ Tú"
+        },
+        {
+            "jnx_key": "947",
+            "jnx_value": "Mỹ Xuyên",
+            "province_id": "94",
+            "tenant_key": "0366",
+            "tenant_value": "Mỹ Xuyên"
+        },
+        {
+            "jnx_key": "948",
+            "jnx_value": "Ngã Năm",
+            "province_id": "94",
+            "tenant_key": "0378",
+            "tenant_value": "Ngã Năm"
+        },
+        {
+            "jnx_key": "941",
+            "jnx_value": "Sóc Trăng",
+            "province_id": "94",
+            "tenant_key": "0486",
+            "tenant_value": "Sóc Trăng"
+        },
+        {
+            "jnx_key": "949",
+            "jnx_value": "Thạnh Trị",
+            "province_id": "94",
+            "tenant_key": "0555",
+            "tenant_value": "Thanh Trì"
+        },
+        {
+            "jnx_key": "951",
+            "jnx_value": "Trần Đề",
+            "province_id": "94",
+            "tenant_key": "0697",
+            "tenant_value": "Trần Đề"
+        },
+        {
+            "jnx_key": "950",
+            "jnx_value": "Vĩnh Châu",
+            "province_id": "94",
+            "tenant_key": "0641",
+            "tenant_value": "Vĩnh Châu"
+        }
+    ],
+    "87": [
+        {
+            "jnx_key": "877",
+            "jnx_value": "Châu Thành",
+            "province_id": "87",
+            "tenant_key": "0099",
+            "tenant_value": "Châu Thành"
+        },
+        {
+            "jnx_key": "870",
+            "jnx_value": "Hồng Ngự",
+            "province_id": "87",
+            "tenant_key": "0259",
+            "tenant_value": "Hồng Ngự"
+        },
+        {
+            "jnx_key": "876",
+            "jnx_value": "Lai Vung",
+            "province_id": "87",
+            "tenant_key": "0307",
+            "tenant_value": "Lai Vung"
+        },
+        {
+            "jnx_key": "875",
+            "jnx_value": "Lấp Vò",
+            "province_id": "87",
+            "tenant_key": "0315",
+            "tenant_value": "Lấp Vò"
+        },
+        {
+            "jnx_key": "867",
+            "jnx_value": "Sa Đéc",
+            "province_id": "87",
+            "tenant_key": "0479",
+            "tenant_value": "Sa Đéc"
+        },
+        {
+            "jnx_key": "871",
+            "jnx_value": "Tam Nông",
+            "province_id": "87",
+            "tenant_key": "0506",
+            "tenant_value": "Tam Nông"
+        },
+        {
+            "jnx_key": "869",
+            "jnx_value": "Tân Hồng",
+            "province_id": "87",
+            "tenant_key": "0516",
+            "tenant_value": "Tân Hồng"
+        },
+        {
+            "jnx_key": "874",
+            "jnx_value": "Thanh Bình",
+            "province_id": "87",
+            "tenant_key": "0545",
+            "tenant_value": "Thanh Bình"
+        },
+        {
+            "jnx_key": "872",
+            "jnx_value": "Tháp Mười",
+            "province_id": "87",
+            "tenant_key": "0560",
+            "tenant_value": "Tháp Mười"
+        }
+    ],
+    "08": [
+        {
+            "jnx_key": "073",
+            "jnx_value": "Chiêm Hóa",
+            "province_id": "08",
+            "tenant_key": "0111",
+            "tenant_value": "Chiêm Hóa"
+        },
+        {
+            "jnx_key": "074",
+            "jnx_value": "Hàm Yên",
+            "province_id": "08",
+            "tenant_key": "0233",
+            "tenant_value": "Hàm Yên"
+        },
+        {
+            "jnx_key": "071",
+            "jnx_value": "Lâm Bình",
+            "province_id": "08",
+            "tenant_key": "1313",
+            "tenant_value": "Lâm Bình"
+        },
+        {
+            "jnx_key": "072",
+            "jnx_value": "Na Hang",
+            "province_id": "08",
+            "tenant_key": "0367",
+            "tenant_value": "Na Hang"
+        },
+        {
+            "jnx_key": "076",
+            "jnx_value": "Sơn Dương",
+            "province_id": "08",
+            "tenant_key": "0493",
+            "tenant_value": "Sơn Dương"
+        },
+        {
+            "jnx_key": "070",
+            "jnx_value": "Tuyên Quang",
+            "province_id": "08",
+            "tenant_key": "0614",
+            "tenant_value": "Tuyên Quang"
+        },
+        {
+            "jnx_key": "075",
+            "jnx_value": "Yên Sơn",
+            "province_id": "08",
+            "tenant_key": "0677",
+            "tenant_value": "Yên Sơn"
+        }
+    ],
+    "67": [
+        {
+            "jnx_key": "662",
+            "jnx_value": "Cư Jút",
+            "province_id": "67",
+            "tenant_key": "0130",
+            "tenant_value": "Cư Jút"
+        },
+        {
+            "jnx_key": "661",
+            "jnx_value": "Đăk Glong",
+            "province_id": "67",
+            "tenant_key": "0154",
+            "tenant_value": "Đắk Glong"
+        },
+        {
+            "jnx_key": "663",
+            "jnx_value": "Đắk Mil",
+            "province_id": "67",
+            "tenant_key": "0156",
+            "tenant_value": "Đắk Mil"
+        },
+        {
+            "jnx_key": "666",
+            "jnx_value": "Đắk R'Lấp",
+            "province_id": "67",
+            "tenant_key": "0157",
+            "tenant_value": "Đắk R'lấp"
+        },
+        {
+            "jnx_key": "665",
+            "jnx_value": "Đắk Song",
+            "province_id": "67",
+            "tenant_key": "0158",
+            "tenant_value": "Đắk Song"
+        },
+        {
+            "jnx_key": "660",
+            "jnx_value": "Gia Nghĩa",
+            "province_id": "67",
+            "tenant_key": "0203",
+            "tenant_value": "Gia Nghĩa"
+        },
+        {
+            "jnx_key": "664",
+            "jnx_value": "Krông Nô",
+            "province_id": "67",
+            "tenant_key": "0296",
+            "tenant_value": "Krông Nô"
+        },
+        {
+            "jnx_key": "667",
+            "jnx_value": "Tuy Đức",
+            "province_id": "67",
+            "tenant_key": "0609",
+            "tenant_value": "Tuy Đức"
+        }
+    ],
+    "19": [
+        {
+            "jnx_key": "171",
+            "jnx_value": "Đại Từ",
+            "province_id": "19",
+            "tenant_key": "0149",
+            "tenant_value": "Đại Từ"
+        },
+        {
+            "jnx_key": "167",
+            "jnx_value": "Định Hóa",
+            "province_id": "19",
+            "tenant_key": "0169",
+            "tenant_value": "Định Hóa"
+        },
+        {
+            "jnx_key": "169",
+            "jnx_value": "Đồng Hỷ",
+            "province_id": "19",
+            "tenant_key": "0183",
+            "tenant_value": "Đồng Hỷ"
+        },
+        {
+            "jnx_key": "172",
+            "jnx_value": "Phổ Yên",
+            "province_id": "19",
+            "tenant_key": "0414",
+            "tenant_value": "Phổ Yên"
+        },
+        {
+            "jnx_key": "173",
+            "jnx_value": "Phú Bình",
+            "province_id": "19",
+            "tenant_key": "0415",
+            "tenant_value": "Phú Bình"
+        },
+        {
+            "jnx_key": "168",
+            "jnx_value": "Phú Lương",
+            "province_id": "19",
+            "tenant_key": "0419",
+            "tenant_value": "Phú Lương"
+        },
+        {
+            "jnx_key": "165",
+            "jnx_value": "Sông Công",
+            "province_id": "19",
+            "tenant_key": "0488",
+            "tenant_value": "Sông Công"
+        },
+        {
+            "jnx_key": "164",
+            "jnx_value": "Thái Nguyên",
+            "province_id": "19",
+            "tenant_key": "0541",
+            "tenant_value": "Thái Nguyên"
+        },
+        {
+            "jnx_key": "170",
+            "jnx_value": "Võ Nhai",
+            "province_id": "19",
+            "tenant_key": "170",
+            "tenant_value": "Võ Nhai"
+        }
+    ],
+    "62": [
+        {
+            "jnx_key": "610",
+            "jnx_value": "Đắk Glei",
+            "province_id": "62",
+            "tenant_key": "0153",
+            "tenant_value": "Đắk Glei"
+        },
+        {
+            "jnx_key": "615",
+            "jnx_value": "Đắk Hà",
+            "province_id": "62",
+            "tenant_key": "0155",
+            "tenant_value": "Đắk Hà"
+        },
+        {
+            "jnx_key": "612",
+            "jnx_value": "Đắk Tô",
+            "province_id": "62",
+            "tenant_key": "0159",
+            "tenant_value": "Đắk Tô"
+        },
+        {
+            "jnx_key": "618",
+            "jnx_value": "Ia H' Drai",
+            "province_id": "62",
+            "tenant_key": "1321",
+            "tenant_value": "Ia H' Drai"
+        },
+        {
+            "jnx_key": "613",
+            "jnx_value": "Kon Plông",
+            "province_id": "62",
+            "tenant_key": "0288",
+            "tenant_value": "Kon Plông"
+        },
+        {
+            "jnx_key": "614",
+            "jnx_value": "Kon Rẫy",
+            "province_id": "62",
+            "tenant_key": "0289",
+            "tenant_value": "Kon Rẫy"
+        },
+        {
+            "jnx_key": "608",
+            "jnx_value": "Kon Tum",
+            "province_id": "62",
+            "tenant_key": "0290",
+            "tenant_value": "Kon Tum"
+        },
+        {
+            "jnx_key": "611",
+            "jnx_value": "Ngọc Hồi",
+            "province_id": "62",
+            "tenant_key": "0387",
+            "tenant_value": "Ngọc Hồi"
+        },
+        {
+            "jnx_key": "616",
+            "jnx_value": "Sa Thầy",
+            "province_id": "62",
+            "tenant_key": "0481",
+            "tenant_value": "Sa Thầy"
+        },
+        {
+            "jnx_key": "617",
+            "jnx_value": "Tu Mơ Rông",
+            "province_id": "62",
+            "tenant_key": "0607",
+            "tenant_value": "Tu Mơ Rông"
+        }
+    ],
+    "11": [
+        {
+            "jnx_key": "100",
+            "jnx_value": "Điện Biên",
+            "province_id": "11",
+            "tenant_key": "0165",
+            "tenant_value": "Điện Biên"
+        },
+        {
+            "jnx_key": "101",
+            "jnx_value": "Điện Biên Đông",
+            "province_id": "11",
+            "tenant_key": "0166",
+            "tenant_value": "Điện Biên Đông"
+        },
+        {
+            "jnx_key": "094",
+            "jnx_value": "Điện Biên Phủ",
+            "province_id": "11",
+            "tenant_key": "0167",
+            "tenant_value": "Điện Biên Phủ"
+        },
+        {
+            "jnx_key": "102",
+            "jnx_value": "Mường Ảng",
+            "province_id": "11",
+            "tenant_key": "0354",
+            "tenant_value": "Mường Ảng"
+        },
+        {
+            "jnx_key": "097",
+            "jnx_value": "Mường Chà",
+            "province_id": "11",
+            "tenant_key": "0355",
+            "tenant_value": "Mường Chà"
+        },
+        {
+            "jnx_key": "095",
+            "jnx_value": "Mường Lay",
+            "province_id": "11",
+            "tenant_key": "0359",
+            "tenant_value": "Mường Lay"
+        },
+        {
+            "jnx_key": "096",
+            "jnx_value": "Mường Nhé",
+            "province_id": "11",
+            "tenant_key": "0360",
+            "tenant_value": "Mường Nhé"
+        },
+        {
+            "jnx_key": "103",
+            "jnx_value": "Nậm Pồ",
+            "province_id": "11",
+            "tenant_key": "1316",
+            "tenant_value": "Nậm Pồ"
+        },
+        {
+            "jnx_key": "098",
+            "jnx_value": "Tủa Chùa",
+            "province_id": "11",
+            "tenant_key": "0605",
+            "tenant_value": "Tủa Chùa"
+        },
+        {
+            "jnx_key": "099",
+            "jnx_value": "Tuần Giáo",
+            "province_id": "11",
+            "tenant_key": "0606",
+            "tenant_value": "Tuần Giáo"
+        }
+    ],
+    "54": [
+        {
+            "jnx_key": "564",
+            "jnx_value": "Đông Hòa",
+            "province_id": "54",
+            "tenant_key": "0178",
+            "tenant_value": "Đông Hoà"
+        },
+        {
+            "jnx_key": "558",
+            "jnx_value": "Đồng Xuân",
+            "province_id": "54",
+            "tenant_key": "0187",
+            "tenant_value": "Đồng Xuân"
+        },
+        {
+            "jnx_key": "563",
+            "jnx_value": "Phú Hoà",
+            "province_id": "54",
+            "tenant_key": "0417",
+            "tenant_value": "Phú Hoà"
+        },
+        {
+            "jnx_key": "560",
+            "jnx_value": "Sơn Hòa",
+            "province_id": "54",
+            "tenant_key": "0495",
+            "tenant_value": "Sơn Hòa"
+        },
+        {
+            "jnx_key": "557",
+            "jnx_value": "Sông Cầu",
+            "province_id": "54",
+            "tenant_key": "0487",
+            "tenant_value": "Sông Cầu"
+        },
+        {
+            "jnx_key": "561",
+            "jnx_value": "Sông Hinh",
+            "province_id": "54",
+            "tenant_key": "0489",
+            "tenant_value": "Sông Hinh"
+        },
+        {
+            "jnx_key": "562",
+            "jnx_value": "Tây Hoà",
+            "province_id": "54",
+            "tenant_key": "0530",
+            "tenant_value": "Tây Hoà"
+        },
+        {
+            "jnx_key": "559",
+            "jnx_value": "Tuy An",
+            "province_id": "54",
+            "tenant_key": "0608",
+            "tenant_value": "Tuy An"
+        },
+        {
+            "jnx_key": "555",
+            "jnx_value": "Tuy Hoà",
+            "province_id": "54",
+            "tenant_key": "0610",
+            "tenant_value": "Tuy Hòa"
+        }
+    ],
+    "34": [
+        {
+            "jnx_key": "340",
+            "jnx_value": "Đông Hưng",
+            "province_id": "34",
+            "tenant_key": "0179",
+            "tenant_value": "Đông Hưng"
+        },
+        {
+            "jnx_key": "339",
+            "jnx_value": "Hưng Hà",
+            "province_id": "34",
+            "tenant_key": "0261",
+            "tenant_value": "Hưng Hà"
+        },
+        {
+            "jnx_key": "343",
+            "jnx_value": "Kiến Xương",
+            "province_id": "34",
+            "tenant_key": "0281",
+            "tenant_value": "Kiến Xương"
+        },
+        {
+            "jnx_key": "338",
+            "jnx_value": "Quỳnh Phụ",
+            "province_id": "34",
+            "tenant_key": "0477",
+            "tenant_value": "Quỳnh Phụ"
+        },
+        {
+            "jnx_key": "336",
+            "jnx_value": "Thái Bình",
+            "province_id": "34",
+            "tenant_key": "0539",
+            "tenant_value": "Thái Bình"
+        },
+        {
+            "jnx_key": "341",
+            "jnx_value": "Thái Thụy",
+            "province_id": "34",
+            "tenant_key": "0542",
+            "tenant_value": "Thái Thụy"
+        },
+        {
+            "jnx_key": "342",
+            "jnx_value": "Tiền Hải",
+            "province_id": "34",
+            "tenant_key": "0580",
+            "tenant_value": "Tiền Hải"
+        },
+        {
+            "jnx_key": "344",
+            "jnx_value": "Vũ Thư",
+            "province_id": "34",
+            "tenant_key": "0655",
+            "tenant_value": "Vũ Thư"
+        }
+    ],
+    "37": [
+        {
+            "jnx_key": "373",
+            "jnx_value": "Gia Viễn",
+            "province_id": "37",
+            "tenant_key": "0204",
+            "tenant_value": "Gia Viễn"
+        },
+        {
+            "jnx_key": "374",
+            "jnx_value": "Hoa Lư",
+            "province_id": "37",
+            "tenant_key": "0237",
+            "tenant_value": "Hoa Lư"
+        },
+        {
+            "jnx_key": "376",
+            "jnx_value": "Kim Sơn",
+            "province_id": "37",
+            "tenant_key": "0285",
+            "tenant_value": "Kim Sơn"
+        },
+        {
+            "jnx_key": "372",
+            "jnx_value": "Nho Quan",
+            "province_id": "37",
+            "tenant_key": "0394",
+            "tenant_value": "Nho Quan"
+        },
+        {
+            "jnx_key": "369",
+            "jnx_value": "Ninh Bình",
+            "province_id": "37",
+            "tenant_key": "0398",
+            "tenant_value": "Ninh Bình"
+        },
+        {
+            "jnx_key": "370",
+            "jnx_value": "Tam Điệp",
+            "province_id": "37",
+            "tenant_key": "0503",
+            "tenant_value": "Tam Điệp"
+        },
+        {
+            "jnx_key": "375",
+            "jnx_value": "Yên Khánh",
+            "province_id": "37",
+            "tenant_key": "0670",
+            "tenant_value": "Yên Khánh"
+        },
+        {
+            "jnx_key": "377",
+            "jnx_value": "Yên Mô",
+            "province_id": "37",
+            "tenant_key": "0674",
+            "tenant_value": "Yên Mô"
+        }
+    ],
+    "36": [
+        {
+            "jnx_key": "365",
+            "jnx_value": "Giao Thủy",
+            "province_id": "36",
+            "tenant_key": "0699",
+            "tenant_value": "Giao Thủy"
+        },
+        {
+            "jnx_key": "366",
+            "jnx_value": "Hải Hậu",
+            "province_id": "36",
+            "tenant_key": "0700",
+            "tenant_value": "Hải Hậu"
+        },
+        {
+            "jnx_key": "358",
+            "jnx_value": "Mỹ Lộc",
+            "province_id": "36",
+            "tenant_key": "0363",
+            "tenant_value": "Mỹ Lộc"
+        },
+        {
+            "jnx_key": "356",
+            "jnx_value": "Nam Định",
+            "province_id": "36",
+            "tenant_key": "0702",
+            "tenant_value": "Nam Định"
+        },
+        {
+            "jnx_key": "362",
+            "jnx_value": "Nam Trực",
+            "province_id": "36",
+            "tenant_key": "0375",
+            "tenant_value": "Nam Trực"
+        },
+        {
+            "jnx_key": "361",
+            "jnx_value": "Nghĩa Hưng",
+            "province_id": "36",
+            "tenant_key": "0384",
+            "tenant_value": "Nghĩa Hưng"
+        },
+        {
+            "jnx_key": "363",
+            "jnx_value": "Trực Ninh",
+            "province_id": "36",
+            "tenant_key": "0603",
+            "tenant_value": "Trực Ninh"
+        },
+        {
+            "jnx_key": "359",
+            "jnx_value": "Vụ Bản",
+            "province_id": "36",
+            "tenant_key": "0656",
+            "tenant_value": "Vụ Bản"
+        },
+        {
+            "jnx_key": "364",
+            "jnx_value": "Xuân Trường",
+            "province_id": "36",
+            "tenant_key": "0661",
+            "tenant_value": "Xuân Trường"
+        },
+        {
+            "jnx_key": "360",
+            "jnx_value": "Ý Yên",
+            "province_id": "36",
+            "tenant_key": "0663",
+            "tenant_value": "Ý Yên"
+        }
+    ],
+    "12": [
+        {
+            "jnx_key": "105",
+            "jnx_value": "Lai Châu",
+            "province_id": "12",
+            "tenant_key": "0306",
+            "tenant_value": "Lai Châu"
+        },
+        {
+            "jnx_key": "107",
+            "jnx_value": "Mường Tè",
+            "province_id": "12",
+            "tenant_key": "0687",
+            "tenant_value": "Mường Tè"
+        },
+        {
+            "jnx_key": "112",
+            "jnx_value": "Nậm Nhùn",
+            "province_id": "12",
+            "tenant_key": "1315",
+            "tenant_value": "Nậm Nhùn"
+        },
+        {
+            "jnx_key": "109",
+            "jnx_value": "Phong Thổ",
+            "province_id": "12",
+            "tenant_key": "0413",
+            "tenant_value": "Phong Thổ"
+        },
+        {
+            "jnx_key": "108",
+            "jnx_value": "Sìn Hồ",
+            "province_id": "12",
+            "tenant_key": "0484",
+            "tenant_value": "Sìn Hồ"
+        },
+        {
+            "jnx_key": "106",
+            "jnx_value": "Tam Đường",
+            "province_id": "12",
+            "tenant_key": "0504",
+            "tenant_value": "Tam Đường"
+        },
+        {
+            "jnx_key": "111",
+            "jnx_value": "Tân Uyên",
+            "province_id": "12",
+            "tenant_key": "0689",
+            "tenant_value": "Tân Uyên"
+        },
+        {
+            "jnx_key": "110",
+            "jnx_value": "Than Uyên",
+            "province_id": "12",
+            "tenant_key": "0543",
+            "tenant_value": "Than Uyên"
+        }
+    ],
+    "15": [
+        {
+            "jnx_key": "135",
+            "jnx_value": "Lục Yên",
+            "province_id": "15",
+            "tenant_key": "0333",
+            "tenant_value": "Lục Yên"
+        },
+        {
+            "jnx_key": "137",
+            "jnx_value": "Mù Căng Chải",
+            "province_id": "15",
+            "tenant_key": "0353",
+            "tenant_value": "Mù Cang Chải"
+        },
+        {
+            "jnx_key": "133",
+            "jnx_value": "Nghĩa Lộ",
+            "province_id": "15",
+            "tenant_key": "0385",
+            "tenant_value": "Nghĩa Lộ"
+        },
+        {
+            "jnx_key": "139",
+            "jnx_value": "Trạm Tấu",
+            "province_id": "15",
+            "tenant_key": "0593",
+            "tenant_value": "Trạm Tấu"
+        },
+        {
+            "jnx_key": "138",
+            "jnx_value": "Trấn Yên",
+            "province_id": "15",
+            "tenant_key": "0597",
+            "tenant_value": "Trấn Yên"
+        },
+        {
+            "jnx_key": "140",
+            "jnx_value": "Văn Chấn",
+            "province_id": "15",
+            "tenant_key": "0626",
+            "tenant_value": "Văn Chấn"
+        },
+        {
+            "jnx_key": "136",
+            "jnx_value": "Văn Yên",
+            "province_id": "15",
+            "tenant_key": "0631",
+            "tenant_value": "Văn Yên"
+        },
+        {
+            "jnx_key": "132",
+            "jnx_value": "Yên Bái",
+            "province_id": "15",
+            "tenant_key": "0664",
+            "tenant_value": "Yên Bái"
+        },
+        {
+            "jnx_key": "141",
+            "jnx_value": "Yên Bình",
+            "province_id": "15",
+            "tenant_key": "0665",
+            "tenant_value": "Yên Bình"
+        }
+    ]
+}
